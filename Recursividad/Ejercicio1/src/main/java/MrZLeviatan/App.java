@@ -3,13 +3,13 @@ package MrZLeviatan;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Main {
+public class App {
 
     /*
         CASO BASE:
 
             -CUANDO EL NUMERO SEA MENOR QUE 10, LA RESPUESTA ES 1 DIGITO/CIFRA
-          
+
         CASO RECURSIVO:
 
             -DIVIDIR EL NUMERO ENTRE 10

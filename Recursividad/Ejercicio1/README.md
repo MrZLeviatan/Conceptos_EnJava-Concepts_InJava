@@ -14,7 +14,7 @@ En este ejercicio se pide contar las cifras de un valor pedido por consola utili
 Inicia la aplicacion pidiendo un valor 
 
 ```java
-public Class Main {
+public Class App {
 
     public static void main(String[] args) {
 
