@@ -11,7 +11,9 @@ Hallar la cantidad de cifras de un número entero usando la recursividad. Parám
  - Maven
  - IDE Intellij
 
-## _Class_
+_______
+
+# _Class_
 
 ### _MainApp_
 Inicia la aplicacion pidiendo un valor 
