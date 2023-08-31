@@ -2,6 +2,9 @@
 
 En este ejercicio se pide contar las cifras de un valor pedido por consola utilizando los metodos de recursividad.
 
+## _Problematica_
+Hallar la cantidad de cifras de un número entero usando la recursividad. Parámetro: n (número entero)
+
 ## _Tool_
 
  - Java 17
