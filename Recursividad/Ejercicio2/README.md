@@ -19,7 +19,9 @@ ___________
 
 ```java
 
- public static void main(String[] args) {
+public class App02 {
+
+    public static void main(String[] args) {
 
         int[] array = {0, 1, 2, 3, 4,5,4,0};
 
@@ -81,8 +83,7 @@ ___________
         }else {
             System.out.println(" No se encontraron ceros en el arreglo");
         }
+    }
 
 }
-
-    }
 

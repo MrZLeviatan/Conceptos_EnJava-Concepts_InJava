@@ -23,7 +23,9 @@ ___________
 
 ```java
 
-public static void main(String[] args) {
+public class App03 {
+
+    public static void main(String[] args) {
 
         int[] array = {9, 1, 2, 6, 0, 5, 0, 9};
 
@@ -112,5 +114,5 @@ public static void main(String[] args) {
                 " En la posicion: " + posicionMenor, tipo);
         System.out.println("");
 
-
     }
+}
