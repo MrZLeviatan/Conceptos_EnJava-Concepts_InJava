@@ -1,24 +1,29 @@
 package MrZLeviatan;
 
-public class Main {
+public class App02 {
     public static void main(String[] args) {
 
-        int[] array = {0, 1, 2, 3, 4,0,0,5,4,3};
+        int[] array = {0, 1, 2, 3, 4,5,4,0};
 
         int posicion = 0;
 
         int cantidadCeros;
 
+        String tipo = "avanzando";
+
+        System.out.println(" --EJERCICIO 2-- ");
+
+
         cantidadCeros = mostrarCantidadAvanzando(array, posicion);
-        System.out.println("La cantidad de ceros en el arreglo avanzando " +
-                "es de :" + cantidadCeros);
+            demostracion(cantidadCeros,tipo);
 
 
         posicion = array.length - 1;
+        tipo = "retrocediendo";
 
         cantidadCeros = mostrarCantidadRetrocediendo(array,posicion);
-        System.out.println("La cantida de ceros en el arreglo retrocediendo" +
-                "es de: "+cantidadCeros);
+            demostracion(cantidadCeros,tipo);
+
     }
 
 
@@ -48,5 +53,17 @@ public class Main {
                 return 0 + mostrarCantidadRetrocediendo(array, posicion - 1);
             }
         }
+
+    public static void demostracion (int cantidadCeros, String tipo){
+
+        if(cantidadCeros != 0){
+            System.out.printf("La cantidad de ceros en el arreglo %s " +
+                    "es de :" + cantidadCeros,tipo);
+            System.out.println("");
+        }else {
+            System.out.println(" No se encontraron ceros en el arreglo");
+        }
+
+}
 
     }

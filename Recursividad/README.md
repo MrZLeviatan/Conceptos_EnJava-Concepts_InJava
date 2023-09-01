@@ -10,3 +10,6 @@ En este ejercicio se pide contar las cifras de un valor pedido por consola utili
 
 ## [_Ejercicio 02_](./Ejercicio2)
 En este ejercicio se pide encontrar las veces que se repite el numero 0 en un Array ya quemado utilizando los metodos de recursividad. 
+
+## [_Ejercicio 03_](./Ejercicio3)
+En este ejercicio se pide encontrar el numero menor del arreglo ya quemado en ambos sentidos del mismo utilizando recursividad.
