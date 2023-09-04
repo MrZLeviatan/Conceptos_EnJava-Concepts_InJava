@@ -1,4 +1,4 @@
-# _Ejercico 4_
+# _Ejercicio 4_
 
 En este ejercicio se pide la suma de las cifras 
 de un valor pedido por consola utilizando los 

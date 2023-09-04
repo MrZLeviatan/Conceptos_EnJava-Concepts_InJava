@@ -1,6 +1,7 @@
 package MrZLeviatan;
 
 public class App02 {
+
     public static void main(String[] args) {
 
         int[] array = {0, 1, 2, 3, 4,5,4,0};
@@ -15,14 +16,14 @@ public class App02 {
 
 
         cantidadCeros = mostrarCantidadAvanzando(array, posicion);
-            demostracion(cantidadCeros,tipo);
+        demostracion(cantidadCeros,tipo);
 
 
         posicion = array.length - 1;
         tipo = "retrocediendo";
 
         cantidadCeros = mostrarCantidadRetrocediendo(array,posicion);
-            demostracion(cantidadCeros,tipo);
+        demostracion(cantidadCeros,tipo);
 
     }
 
@@ -48,11 +49,11 @@ public class App02 {
         if (posicion < 0) {
             return 0;
         }else if (array[posicion] == 0) {
-                return 1 + mostrarCantidadRetrocediendo(array, posicion - 1);
-            } else {
-                return 0 + mostrarCantidadRetrocediendo(array, posicion - 1);
-            }
+            return 1 + mostrarCantidadRetrocediendo(array, posicion - 1);
+        } else {
+            return 0 + mostrarCantidadRetrocediendo(array, posicion - 1);
         }
+    }
 
     public static void demostracion (int cantidadCeros, String tipo){
 
@@ -63,7 +64,8 @@ public class App02 {
         }else {
             System.out.println(" No se encontraron ceros en el arreglo");
         }
+    }
 
 }
 
-    }
+

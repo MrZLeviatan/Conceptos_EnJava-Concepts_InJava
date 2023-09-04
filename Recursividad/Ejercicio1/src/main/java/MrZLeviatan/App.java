@@ -36,7 +36,6 @@ public class App {
         int numero;
         System.out.println(" Digite un numero Por favor: ");
 
-
             try {
                 numero = sc.nextInt();
                 int sumaDigitos = contarDigitos(numero);
