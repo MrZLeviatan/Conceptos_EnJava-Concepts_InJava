@@ -8,7 +8,7 @@ public class AppFibonacci {
 
     public static void main(String[] args) {
         int numero = hallarNumero();
-        demostrar(numero,06);
+        demostrar(numero,0);
     }
 
     public static int fibonacci (int numero){

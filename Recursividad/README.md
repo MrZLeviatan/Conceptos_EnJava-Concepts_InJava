@@ -38,3 +38,8 @@ utilizando los metodos recursivos.
 ## [_Ejercicio 07_](./Ejercicio7)
 En este ejercicio se pide recorrer un array de elementos con el fin de 
 encontrar la cantidad de cierto elemento pedido por consola con los metodos recursivos.
+
+# _Ejercicios Matriz:_
+
+# [_Ejercicio 08_](./Ejercicio8)
+En este ejercicio se demuestra las diferentes maneras de recorrer una matriz con los metodos recursivos.
