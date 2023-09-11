@@ -14,7 +14,7 @@ public class App08 {
 
                 {1,2,3},
                 {4,5,6},       //Filas
-                {7,8,9}
+                {7,8,9}           // 1  4 2  7
         };
 
         System.out.println("");
@@ -50,8 +50,9 @@ public class App08 {
         System.out.println("Recorrerla por Columnas inversa empezando al inicio: ");
         recorrerMatrizAnormalRetrocediendoInicio(m,0,m[0].length-1);
 
-
-        //filas(m,0)
+        System.out.println("");
+        System.out.println(" Diagonal: ");
+        filas(m,0);
 
     }
 
