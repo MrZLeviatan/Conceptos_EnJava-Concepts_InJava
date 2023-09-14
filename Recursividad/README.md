@@ -41,5 +41,8 @@ encontrar la cantidad de cierto elemento pedido por consola con los metodos recu
 
 # _Ejercicios Matriz:_
 
-# [_Ejercicio 08_](./Ejercicio8)
+## [_Ejercicio 08_](./Ejercicio8)
 En este ejercicio se demuestra las diferentes maneras de recorrer una matriz con los metodos recursivos.
+
+## [_Ejercicio10_](./Ejercicio10)
+En este ejercicio se pide hallar las palabras con vocales seguidas de una matriz quemada con los metodos recursivos.
