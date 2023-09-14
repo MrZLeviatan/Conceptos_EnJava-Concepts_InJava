@@ -12,6 +12,9 @@ En este ejercicio se pide contar las cifras de un valor pedido por consola utili
 ## [_Ejercicio 04_](./Ejercicio4)
 En este ejercicio se pide la suma de las cifras de un valor pedido por consola utilizando los metodos de recursividad.
 
+## [_Ejercicio 10_](./Ejercicio10)
+En este ejercicio se pide invertir una palabra pedida por consola utilizando los metodos recursivos.
+
 ## [_Ejercicio 12_](./Ejercicio12)
 En este ejercicio se pide la potencia de una bases y un potenciados pedidos por consola utilizando los metodos de recursividad.
 

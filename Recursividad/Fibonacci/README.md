@@ -1,5 +1,5 @@
 
-# _Ejercicio 7_
+# _Ejercicio Fibonacci_
 
 En este ejercicio se halla la ecuacion fibonacci con el 
 limite del numero pedido por consola; Utilizando los metodos de 

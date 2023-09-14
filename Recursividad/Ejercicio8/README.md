@@ -1,5 +1,7 @@
 # _Ejercicio 8_
 
+En este ejercicio se demuestra las diferentes maneras de recorrer una matriz con 
+los metodos recursivos.
 
 
 ## _Problematica_
@@ -13,8 +15,6 @@ Recorrer una matriz de forma recursiva.
 ___________
 
 # _Class_
-
-En este ejercicio se demuestra las diferentes maneras de recorrer una matriz con los metodos recursivos.
 
 -----
 
