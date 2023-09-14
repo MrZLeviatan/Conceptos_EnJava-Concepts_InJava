@@ -9,3 +9,7 @@ En esta carpeta se muestran distintos ejercicios y juegos con casos recursivos y
 ## [_Juego De La Mochila_](./JuegoMochila)
 El juego de la mochila se basa en obtener la mejor combinacion de elementos que mas beneficios nos de y que no soprepase el
 peso de una mochila. Se denota la creacion de clases y metodos recursivos.
+
+## [_Laberinto_](./Laberinto)
+Queremos hallar la solucion oh posibles soluciones de un laberinto hecho por matrices utilizando los metodos recursivos y de Backtracking.
+
