@@ -7,7 +7,7 @@ public class App10_2 {
     public static void main(String[] args) {
 
         System.out.println("");
-        System.out.println(" --EJERCICIO 10-- ");
+        System.out.println(" --EJERCICIO 10/2.0-- ");
 
         ArrayList listaPalabras = new ArrayList();
 

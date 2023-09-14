@@ -48,3 +48,6 @@ En este ejercicio se demuestra las diferentes maneras de recorrer una matriz con
 
 ## [_Ejercicio10/2.0_](./Ejercicio10_2.0)
 En este ejercicio se pide hallar las palabras con vocales seguidas de una matriz quemada con los metodos recursivos.
+
+## [_Ejercicio12/2.0_](./Ejercicio12_2.0)
+En este ejercicico se pide hallar en una matriz de Personas las personas que tengan numero primo oh perfecto como edad utilizando los metodos recursivos.
