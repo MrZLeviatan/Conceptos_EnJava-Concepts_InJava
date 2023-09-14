@@ -12,9 +12,9 @@ public class App08 {
 
                 //Columnas
 
-                {1,2,3},
-                {4,5,6},       //Filas
-                {7,8,9}           // 1  4 2  7
+                {1,2,3,4},
+                {4,5,6,5},       //Filas
+                {7,8,9,6}           // 1  4 2  7
         };
 
         System.out.println("");
