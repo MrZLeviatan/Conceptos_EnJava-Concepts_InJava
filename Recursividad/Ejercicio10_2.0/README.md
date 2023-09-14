@@ -1,7 +1,32 @@
-package MrZLeviatan;
 
-import java.util.ArrayList;
+# _Ejercicio 10/2.0_
 
+En este ejercicio se pide hallar las palabras con 
+vocales seguidas de una matriz quemada con los metodos recursivos.
+
+## _Problematica_
+
+Dada una matriz de String de 4 x 4 conformada por palabras, hallar las 
+palabras que tienen dos vocales seguidas de forma recursiva y agregarlas a un ArrayList. 
+Ejemplo de la matriz a probar.
+
+![ImagenEjemplo](src/main/resources/ImagenEjemplos/ImagenEjemplo.jpg)
+
+
+
+
+## _Tool_
+- Java 17
+- Maven
+- IDE Intellij
+
+___________
+
+# _Class_
+
+## _MainApp_
+
+```java
 public class App10 {
 
     public static void main(String[] args) {
@@ -13,10 +38,10 @@ public class App10 {
 
         String[][] m = {
 
-                {"vacio", "carro", "bAul", "perro"},
-                {"colombia", "casa", "moto", "caza"},
-                {"llanta", "reir", "archivo", "silla","abuela"},
-                {"cocina", "ola", "aver", "freir"}
+                {"vacio", "carro", "bAul", "perro", "hola"},
+                {"colombia", "casa", "moto", "caza", "aereolina"},
+                {"llanta", "reir", "archivo", "silla", "abuela"},
+                {"cocina", "ola", "aver", "freir","a"}
         };
 
         System.out.println("");
@@ -106,3 +131,4 @@ public class App10 {
     }
 }
 
+```

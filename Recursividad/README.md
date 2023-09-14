@@ -12,6 +12,8 @@ En este ejercicio se pide contar las cifras de un valor pedido por consola utili
 ## [_Ejercicio 04_](./Ejercicio4)
 En este ejercicio se pide la suma de las cifras de un valor pedido por consola utilizando los metodos de recursividad.
 
+## [_Ejercicio 12_](./Ejercicio12)
+En este ejercicio se pide la potencia de una bases y un potenciados pedidos por consola utilizando los metodos de recursividad.
 
 ## [_Fibonacci_](./Fibonacci)
 En este ejercicio se halla la ecuacion fibonacci con el limite del numero pedido por consola; Utilizando los metodos de recursividad.
@@ -44,5 +46,5 @@ encontrar la cantidad de cierto elemento pedido por consola con los metodos recu
 ## [_Ejercicio 08_](./Ejercicio8)
 En este ejercicio se demuestra las diferentes maneras de recorrer una matriz con los metodos recursivos.
 
-## [_Ejercicio10_](./Ejercicio10)
+## [_Ejercicio10/2.0_](./Ejercicio10_2.0)
 En este ejercicio se pide hallar las palabras con vocales seguidas de una matriz quemada con los metodos recursivos.
