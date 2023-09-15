@@ -33,7 +33,9 @@ public class App {
     public static void obtenerDatos () {
 
         Scanner sc = new Scanner(System.in);
+        Scanner nm = new Scanner(System.in);
         int numero;
+        int n;
         System.out.println(" Digite un numero Por favor: ");
 
             try {
@@ -42,11 +44,12 @@ public class App {
                 System.out.println("La cantidad de digitos en el anterior ejemplo es: " + sumaDigitos);
 
             } catch (InputMismatchException e) {
-                System.out.println("Error: " + "El valor tecleado debe ser un entero");
-                obtenerDatos();
+                    System.out.println("Error: " + "El valor tecleado debe ser un entero");
+                    obtenerDatos();
 
             }
     }
+
     public static void main(String[] args) {
 
         System.out.println(" --EJERCICIO 1-- ");

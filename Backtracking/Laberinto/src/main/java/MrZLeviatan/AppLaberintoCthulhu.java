@@ -34,9 +34,9 @@ public class AppLaberintoCthulhu {
     }
 
     public void resuelve(int x, int y) {
-        if(movimientos(x, y)) {      //SE INTENTA RESOLVER EL LABERINTO EN ESTAS COORDENADAS
-            laberinto[x][y]='S';
-        }
+        movimientos(x, y);       //SE INTENTA RESOLVER EL LABERINTO EN ESTAS COORDENADAS
+        laberinto[x][y]='S';
+
     }
 
     private boolean movimientos(int x, int y) {
@@ -60,11 +60,9 @@ public class AppLaberintoCthulhu {
         int numRows = laberinto.length;
         int numCols = laberinto[0].length;
 
-        laberinto[x][y] = '^';          //SE MARCA LA POSICION COMO VISITADA OH YA PISADO POR HAY
-
+        laberinto[x][y] = '^'; //SE MARCA LA POSICION COMO VISITADA OH YA PISADO POR HAY
 
         // SE VERIFICAN LOS LIMITES ANTES DE MOVERSE
-
 
         if (x >= 0 && x < numRows && y + 1 >= 0 && y + 1 < numCols) { //VERIFICA SI SE PUEDE MOVERSE A LA DERECHA
             movimientos(x, y + 1);

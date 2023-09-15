@@ -52,27 +52,28 @@ public class AppLaberintoLeviatan {
             return false;
         }
 
-        laberinto[x][y] = '^';
+        laberinto[x][y] = '^';      //MARCA DONDE PASA
 
         boolean result;
 
-        result= movimientos(x-1,y);
+        result= movimientos(x-1,y); //MOVIMIENTO ABAJO
         if (result) return true;
 
-        result= movimientos(x, y-1);
+        result= movimientos(x, y-1);    //MOVIMIENTO IZQUIERDA
         if (result) return true;
 
-        result= movimientos(x,y+1);
+        result= movimientos(x,y+1);     //MOVIMIENTO DERECHA
         if (result) return true;
 
-        result= movimientos(x+1, y);
+        result= movimientos(x+1, y);    //MOVIMIENTO ARRIBA
         if (result) return true;
 
 
-        laberinto[x][y] = '0';
+        laberinto[x][y] = '0';  //SI VUELVE A PASAR MARCA CON '0'
         return false;
     }
 
+    //METODO PARA IMPRIMIR EL LABERINTO
     private String imprimirLaberinto (int x, int y){
 
         String salida = "";
