@@ -1,7 +1,5 @@
 # _Recorrer Carcel_
-Recorrer una carcel hecha por matriz donde se encontraran presos; La idea es contar los presos y saber cuantos faltan dentro de la carcel.
 
-## _Problematica Backtracking:_
 Implementar un algoritmo usando backtracking que permita solucionar el siguiente problema:  Una cárcel de una ciudad se puede representar en forma de matriz carcel[i][j], tener en cuenta:
 - Carcel[i][j]=P significa que hay un preso
 - Carcel[i][j]= “X” significa que no hay preso
