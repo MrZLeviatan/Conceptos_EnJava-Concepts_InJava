@@ -6,7 +6,7 @@ Implementar un algoritmo usando backtracking que permita solucionar el siguiente
 - Carcel[i][j]= “”(vacío) significa que es un pasillo
 - Desarrolle una aplicación que permita obtener si faltan presos en una cárcel, para esto el guarda de seguridad debe recorrer toda la cárcel contando cuántos presos encontró.
 - Dejar una marca en la posición[i][j] por donde va pasando el guarda.
-- En total deben de haber 26 presos. Al final del recorrido por toda la cárcel. Debe indicar si se escaparon presos y cuántos. En caso contrario solo indicar que no se ha escapado ningún preso.
+- En total debe de haber 26 presos. Al final del recorrido por toda la cárcel. Debe indicar si se escaparon presos y cuántos. En caso contrario solo indicar que no se ha escapado ningún preso.
 - El guarda debe arrancar en la posición S (0, 0) y terminar en un punto de control en la posición C (#, #) definidas por parámetro. El patrón de movimiento a utilizar es:, derecha, abajo, arriba, izquierda. Debe tener en cuenta que no se puede salir de la cárcel. Lo azul son los índices filas y columnas no son valores de la matriz
 
 ------
