@@ -20,3 +20,6 @@ Recorrer una carcel hecha por matriz donde se encontraran presos; La idea es con
 Recorrer un campo de guerra hecho por matriz, donde se encontrara aliados y enemigos de diferentes tipos; La idea es contar cada aliado encontrado y eliminar a los enemigos para subir un contador.
 
 ## [_Parqueadero_](./Parqueadero)
+Desarrolle una aplicación que permita parquear los 2 carros en los respectivos espacios reservados Una vez realice el parqueo de un carro en R1 o R2 colocar en dicha posición el carro //
+
+Tener en cuenta que si R1 y R2 tiene algún carro suyo parqueado ya no será un punto disponible. Al seguir con el siguiente carro limpiar la ruta previa que realizó para parquear el carro El inicio del parqueo de los carros inicia donde dice Entrada Tener presente que no se puede salir del parqueadero
