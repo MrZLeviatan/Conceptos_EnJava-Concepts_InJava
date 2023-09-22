@@ -5,7 +5,7 @@ public class AppCDG {
     public static String[][] campo = {
 
             {"CA", "E1","A","CA","A","CA","CA","CA","E1"},
-            {"CA", "E1","E2","CA","A","E1","CA","E1","CA"},         //A ALIADOS
+            {"CA", "E1","E2","CA","A","E1","CA","E1","CA"},         // A ALIADOS
             {"CA", "CA","CA","CA","CA","CA","CA","CA","CA"},        // E1 ENEMIGOS TIPO 1
             {"E1", "CA","E1","A","CA","E1","A","CA","CA"},          // E2 ENEMIGOS TIPO 2
             {"A", "CA","A","CA","CA","E2","E1","CA","E2"},          // CA CAMINO LIBRE

@@ -2,7 +2,7 @@
 Queremos meter elementos en una mochila con un peso maximo; Estos elementos tienen un peso y un beneficio.
 
 ## _Problematica Backtracking:_
-Obtener la mejor combinacion que mas beneficios nos de y que no soprepase el 
+Obtener la mejor combinacion que más beneficios nos dé y que no soprepase el 
 peso de la mochila
 
 ![ImagenEjemplo](https://github.com/MrZLeviatan/Conceptos_EnJava/blob/main/Backtracking/JuegoMochila/src/main/resources/Imagenes/mochilaJuego.png?raw=true)
@@ -19,7 +19,7 @@ peso de la mochila
 
 ## _Class App_
 
-Se crea la clase App donde se queman algunos datos para poder empezar el Backtracking, tambien se
+Se crea la clase App donde se queman algunos datos para poder empezar el Backtracking, también se
 crea la funcion para llenar la mochila con los datos ya quemados.
 
 ```java
@@ -150,7 +150,7 @@ public class Elemento {
 ## _Class Mochila:_
 
 Creamos la clase de objeto para la Mochila la cual tiene por propiedades su capacidad maxima de peso.
-Tambien se crea los diferentes arquetivos y metodos para completar el Backtracking de este ejercicio.
+También se crea los diferentes arquetivos y metodos para completar el Backtracking de este ejercicio.
 
 
 ```java

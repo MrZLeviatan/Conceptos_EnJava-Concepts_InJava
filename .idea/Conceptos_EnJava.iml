@@ -21,6 +21,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Recursividad/Ejercicio12/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Recursividad/Ejercicio12_2.0/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Backtracking/CampoDeGuerra/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Backtracking/Parqueadero/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Recursividad/EjercicioParcial01_02/src/main/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
