@@ -3,16 +3,18 @@
 Implementar un algoritmo usando backtracking que permita solucionar el siguiente problema
 En un parqueadero usted tiene dos lugares disponibles(R1 y R2). En cada lugar usted quiere parquear un carro, es decir tiene 2 carros para parquear. Una vez realice el parqueo de un carro se dispone a parquear el siguiente carro. Un parqueadero se puede representar en forma de matriz parqueadero[i][j], tener en cuenta:
 - R significar que es un espacio reservado
-- L significa que es un espacio libre.
-- ![ImagenEjemplo](./) significa que es un espacio libre para discapacitados. parqueadero[i][j]= “discapacitado”
-- ![ImagenEjemplos2](./)significa que es un espacio ocupado por un carro. parqueadero[i][j]= “carro”
+
+- <img align='legt' src="https://github.com/MrZLeviatan/Conceptos_EnJava/blob/main/Backtracking/Parqueadero/src/main/resources/images/ImagenDis.png?raw=true" width="40"> L significa que es un espacio libre para discapacitados. parqueadero[i][j]= “discapacitado”
+
+- <img align='legt' src="https://github.com/MrZLeviatan/Conceptos_EnJava/blob/main/Backtracking/Parqueadero/src/main/resources/images/imagenCar.png?raw=true" width="40"> C significa que es un espacio ocupado por un carro. parqueadero[i][j]= “carro”
 - parqueadero[i][j]= " ", significa que es un pasillo
 - Se tienen 2 carros a parquear
 - Solo se puede estacionar en algunos de los 2 puntos reservados R1 o R2
 - Cada carro va en un espacio R1 o R2
 - Dejar una marca “+” en la posición[i][j] por donde va pasando el carro (solo por pasillos).
 
-![ImagenEjemplo3](./)
+<img align='center' src="https://github.com/MrZLeviatan/Conceptos_EnJava/blob/main/Backtracking/Parqueadero/src/main/resources/images/ImagenParq.png?raw=true" >
+
 
 ## _Problematica:_
 Desarrolle una aplicación que permita parquear los 2 carros en los respectivos espacios reservados
