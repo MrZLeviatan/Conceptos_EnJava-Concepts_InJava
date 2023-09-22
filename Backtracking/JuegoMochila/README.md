@@ -5,7 +5,7 @@ Queremos meter elementos en una mochila con un peso maximo; Estos elementos tien
 Obtener la mejor combinacion que más beneficios nos dé y que no soprepase el 
 peso de la mochila
 
-![ImagenEjemplo](https://github.com/MrZLeviatan/Conceptos_EnJava/blob/main/Backtracking/JuegoMochila/src/main/resources/Imagenes/mochilaJuego.png?raw=true)
+![ImagenEjemplo](https://github.com/MrZLeviatan/Conceptos_EnJava/blob/main/Backtracking/JuegoMochila/src/main/resources/images/mochilaJuego.png?raw=true)
 
 ------
 
