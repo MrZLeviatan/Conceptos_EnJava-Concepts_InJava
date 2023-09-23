@@ -2,7 +2,7 @@
 En esta carpeta se muestran distintos ejercicios y ejemplos con casos de recursividad; 
 Demostrando asi cuáles son los casos base y recursivos. Se denota también el uso de datos ya quemados oh datos pedidos por consola.
 
-
+___
 # _Ejercicios Basicos:_
 
 
@@ -21,7 +21,7 @@ En este ejercicio se pide la potencia de una bases y un potenciado pedido por co
 ## [_Fibonacci_](./Fibonacci)
 En este ejercicio se halla la ecuacion fibonacci con el límite del número pedido por consola; Utilizando los metodos de recursividad.
 
-
+___
 # _Ejercicios Array:_
 
 ## [_Ejercicio 02_](./Ejercicio2)
@@ -43,7 +43,7 @@ utilizando los metodos recursivos.
 En este ejercicio se pide recorrer un array de elementos con el fin de 
 encontrar la cantidad de cierto elemento pedido por consola con los metodos recursivos.
 
-
+___
 # _Ejercicios Matriz:_
 
 ## [_Ejercicio 08_](./Ejercicio8)
