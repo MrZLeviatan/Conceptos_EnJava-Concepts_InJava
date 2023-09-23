@@ -4,7 +4,7 @@ Demostrando asi cuáles son los casos base y recursivos. Se denota también el u
 
 
 # _Ejercicios Basicos:_
-___
+
 
 ## [_Ejercicio 01_](./Ejercicio1)
 En este ejercicio se pide contar las cifras de un valor pedido por consola utilizando los metodos de recursividad.
@@ -23,15 +23,12 @@ En este ejercicio se halla la ecuacion fibonacci con el límite del número pedi
 
 
 # _Ejercicios Array:_
-___
 
 ## [_Ejercicio 02_](./Ejercicio2)
 En este ejercicio se pide encontrar las veces que se repite el número 0 en un Array ya quemado utilizando los metodos de recursividad. 
 
-
 ## [_Ejercicio 03_](./Ejercicio3)
 En este ejercicio se pide encontrar el número menor del arreglo ya quemado en ambos sentidos del mismo utilizando los metodos recursividad.
-
 
 ## [_Ejercicio 05_](./Ejercicio5)
 En este ejercicio se pide hallar la cantidad de veces que
@@ -46,8 +43,8 @@ utilizando los metodos recursivos.
 En este ejercicio se pide recorrer un array de elementos con el fin de 
 encontrar la cantidad de cierto elemento pedido por consola con los metodos recursivos.
 
+
 # _Ejercicios Matriz:_
-___
 
 ## [_Ejercicio 08_](./Ejercicio8)
 En este ejercicio se demuestra las diferentes maneras de recorrer una matriz con los metodos recursivos.
