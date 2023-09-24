@@ -25,10 +25,11 @@ ___________
 public class AppFibonacci {
 
 
-    public static void main(String[] args) {
+     System.out.println(" --EJERCICIO Fibonacci-- ");
         int numero = hallarNumero();
+        System.out.println("\n" + "Resultado: ");
         demostrar(numero,0);
-    }
+     }
 
     public static int fibonacci (int numero){
         if ((numero == 0) || (numero==1))
@@ -49,7 +50,7 @@ public class AppFibonacci {
 
     public static int hallarNumero (){
         Scanner sc = new Scanner(System.in);
-        System.out.println("Introduce el numero: ");
+        System.out.println("\n" + "Introduce el numero: ");
         int numero;
         try {
             numero = sc.nextInt();
