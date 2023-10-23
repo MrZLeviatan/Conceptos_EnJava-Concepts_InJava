@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Hilos" />
+        <module name="Persistencia" />
+        <module name="Ejercicio_01 (1)" />
+        <module name="Ejercicio_01 (2)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Ejercicio_01" target="17" />
+      <module name="Ejercicio_02" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
