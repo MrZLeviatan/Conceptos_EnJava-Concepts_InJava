@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Hilos" />
+        <module name="Ejercicio_2" />
         <module name="Persistencia" />
         <module name="Ejercicio_01 (1)" />
         <module name="Ejercicio_01 (2)" />

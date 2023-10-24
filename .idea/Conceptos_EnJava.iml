@@ -23,6 +23,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Backtracking/CampoDeGuerra/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Backtracking/Parqueadero/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Recursividad/EjercicioParcial01_02/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Threads/Ejercicio_03/src/main/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

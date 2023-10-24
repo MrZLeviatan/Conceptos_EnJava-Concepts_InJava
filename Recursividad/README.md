@@ -1,8 +1,13 @@
 # _Recursividad_
-En esta carpeta se muestran distintos ejercicios y ejemplos con casos de recursividad; 
-Demostrando asi cuáles son los casos base y recursivos. Se denota también el uso de datos ya quemados oh datos pedidos por consola.
+
+La recursividad en java es una tecnica de programación en la que un metodo se llama a sí
+mismo para resolver un problema. Esto se logra dividiendo un problema en subproblemas más
+pequeños con el fin de resolverlos recursivamente.
 
 ___
+
+#### _A continuacion se demostrarán distintos ejemplos usando la tecnica "Recursividad" en distintos ambitos de la programación de Java:_
+
 # _Ejercicios Basicos:_
 
 

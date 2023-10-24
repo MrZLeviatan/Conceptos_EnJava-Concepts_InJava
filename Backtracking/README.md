@@ -1,8 +1,14 @@
 # _BackTracking_
 
-En esta carpeta se muestran distintos ejercicios y juegos con casos recursivos y Backtracking: Demostrando asi cuáles son los más comunes con la mecanica de programación Backtracking. Se denota también el uso de juegos famosos de la programación con su solucion.
-
+El BackTracking en java es un enfoque de programación utilizado para encontrar soluciones a
+problemas que implican la exploracion sistematica de multiples opciones. Este enfoque se
+caracteriza por probar una serie de elecciones y, en caso de que una eleccion no conduza a
+una solucion válida, retrocede (hacer "backtrack") para probar una alternativa diferente.
 ___
+
+#### _A continuacion se demostrarán distintos ejemplos usando la tecnica "BackTracking" en distintos ejercicios y juegos orientados en la programación de Java:_
+
+
 # _Juegos Comunes:_
 
 ## [_Juego De La Mochila_](./JuegoMochila)
