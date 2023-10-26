@@ -25,3 +25,18 @@ ___
 # _Ejercicios Utilizando La Libreria Fx:_
 
 ## [_Ejercicio 1_](./Ejercicio_01)
+Demostrar en una interfaz creada por la libreria Fx varios botones con diferentes funcionalidades:
+
+- En el BotonFx "Main01" imprime un conteo de 1-50 sin poder ser interrumpido.
+- En el BotonFx "Main02" imprime un hola sin poder ser interrumpido.
+- Hilo 1: Se implementan dos BotonesFx. En el BotonFx "Star" imprime el nombre del Hilo y
+    un conteo. En el BotonFx "Stop" se detienen el proceso.
+- Hilo 2: Se implementan dos BotonesFx. En el BotonFx "Star" imprime el nombre del Hilo. En
+    el BotonFx "Stop" se detiene el proceso.
+- Hilo 3: Se implementan dos BotonesFx. En el BotonFx "Star" imprime el nombre del Hilo con un
+    conteo. En el BotonFx "Stop" se detiene el proceso.
+- Hilo 4: Se pide un número por TextField y se implementan dos BotonesFx. En el BotonFx "Star"
+    imprime la tabla de multiplicacion. En el BotonFx "Stop" se detiene el proceso.
+- Hilo 5: Se pide un número por TextField y se implementandos BotonesFx. En el BotonFx "Star"
+    imprime el doble del mismo sucesivamente. En el BotonFx "Stop" se detiene el proceso.
+
