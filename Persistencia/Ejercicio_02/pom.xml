@@ -5,15 +5,9 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>MrZLeviatan</groupId>
-  <artifactId>Threads</artifactId>
+  <artifactId>Ejercicio_02</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>pom</packaging>
-  <name>Threads</name>
-  <modules>
-    <module>Ejercicio_1</module>
-    <module>Ejercicio_2</module>
-      <module>Parcial02_03</module>
-  </modules>
+  <name>Ejercicio_02</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -42,7 +36,22 @@
       <artifactId>junit-jupiter-engine</artifactId>
       <version>${junit.version}</version>
       <scope>test</scope>
-    </dependency>  </dependencies>
+    </dependency>
+
+    <dependency>
+      <groupId>org.mapstruct</groupId>
+      <artifactId>mapstruct</artifactId>
+      <version>1.5.5.Final</version>
+    </dependency>
+
+    <dependency>
+      <groupId>org.mapstruct</groupId>
+      <artifactId>mapstruct-processor</artifactId>
+      <version>1.5.5.Final</version>
+    </dependency>
+
+
+  </dependencies>
 
   <build>
     <plugins>
@@ -64,7 +73,7 @@
             <!-- Default configuration for running with: mvn clean javafx:run -->
             <id>default-cli</id>
             <configuration>
-              <mainClass>mrzleviatan.hilos/mrzleviatan.hilos.HelloApplication</mainClass>
+              <mainClass>mrzleviatan.ejercicio_01/mrzleviatan.ejercicio_01.App02</mainClass>
               <launcher>app</launcher>
               <jlinkZipName>app</jlinkZipName>
               <jlinkImageName>app</jlinkImageName>

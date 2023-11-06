@@ -6,19 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Persistencia" />
-        <module name="Ejercicio_02" />
         <module name="Parcial02_03" />
-        <module name="Ejercicio_2" />
-        <module name="Ejercicio_1" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Colegio-Persistencia" target="17" />
-      <module name="CRUD-Persistencia" target="17" />
-      <module name="Ejercicio_01" target="17" />
-      <module name="Ejercicio_01 (1)" target="17" />
-      <module name="Ejercicio_01 (2)" target="17" />
-    </bytecodeTargetLevel>
   </component>
 </project>

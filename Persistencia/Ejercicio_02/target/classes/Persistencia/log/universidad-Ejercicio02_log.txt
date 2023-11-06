@@ -1,0 +1,20 @@
+nov. 02, 2023 8:53:00 P. M. mrzleviatan.ejercicio_01.utils.ArchivoUtil guardarRegistroLog
+INFO: ,Inicio De Sesion,2023 - 11 - 02 - 8 - 52
+nov. 02, 2023 8:54:01 P. M. mrzleviatan.ejercicio_01.utils.ArchivoUtil guardarRegistroLog
+INFO: ,Inicio De Sesion,2023 - 11 - 02 - 8 - 54
+nov. 02, 2023 8:54:18 P. M. mrzleviatan.ejercicio_01.utils.ArchivoUtil guardarRegistroLog
+INFO: ,Estudiante agregado,2023 - 11 - 02 - 8 - 54
+nov. 02, 2023 8:55:34 P. M. mrzleviatan.ejercicio_01.utils.ArchivoUtil guardarRegistroLog
+INFO: ,Inicio De Sesion,2023 - 11 - 02 - 8 - 55
+nov. 02, 2023 8:55:48 P. M. mrzleviatan.ejercicio_01.utils.ArchivoUtil guardarRegistroLog
+WARNING: ,Estudiante eliminado,2023 - 11 - 02 - 8 - 55
+nov. 02, 2023 8:56:13 P. M. mrzleviatan.ejercicio_01.utils.ArchivoUtil guardarRegistroLog
+INFO: ,Inicio De Sesion,2023 - 11 - 02 - 8 - 56
+nov. 05, 2023 10:35:52 P. M. mrzleviatan.ejercicio_01.utils.ArchivoUtil guardarRegistroLog
+INFO: ,Inicio De Sesion,2023 - 11 - 05 - 10 - 35
+nov. 05, 2023 10:36:16 P. M. mrzleviatan.ejercicio_01.utils.ArchivoUtil guardarRegistroLog
+INFO: ,Inicio De Sesion,2023 - 11 - 05 - 10 - 36
+nov. 05, 2023 10:36:35 P. M. mrzleviatan.ejercicio_01.utils.ArchivoUtil guardarRegistroLog
+INFO: ,Inicio De Sesion,2023 - 11 - 05 - 10 - 36
+nov. 05, 2023 10:37:17 P. M. mrzleviatan.ejercicio_01.utils.ArchivoUtil guardarRegistroLog
+INFO: ,Inicio De Sesion,2023 - 11 - 05 - 10 - 37

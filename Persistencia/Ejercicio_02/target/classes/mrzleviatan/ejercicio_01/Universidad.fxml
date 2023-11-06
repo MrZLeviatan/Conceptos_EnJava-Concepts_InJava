@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="529.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="mrzleviatan.ejercicio_01.viewController.UniversidadController">
+   <children>
+      <SplitPane dividerPositions="0.49146110056925996" orientation="VERTICAL" prefHeight="529.0" prefWidth="600.0">
+        <items>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="266.0" prefWidth="598.0">
+               <children>
+                  <Text layoutX="12.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Nombre:">
+                     <font>
+                        <Font name="System Bold" size="14.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="11.0" layoutY="79.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Apellido:">
+                     <font>
+                        <Font name="System Bold" size="14.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="16.0" layoutY="123.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Cedula:">
+                     <font>
+                        <Font name="System Bold" size="14.0" />
+                     </font>
+                  </Text>
+                  <TextField fx:id="txtNombre" layoutX="86.0" layoutY="18.0" />
+                  <TextField fx:id="txtApellido" layoutX="86.0" layoutY="61.0" />
+                  <TextField fx:id="txtCedula" layoutX="86.0" layoutY="105.0" />
+                  <TextField fx:id="txtNota1" layoutX="371.0" layoutY="18.0" />
+                  <Text layoutX="317.0" layoutY="35.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Nota 1:">
+                     <font>
+                        <Font name="System Bold" size="14.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="317.0" layoutY="79.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Nota 2:">
+                     <font>
+                        <Font name="System Bold" size="14.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="317.0" layoutY="123.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Nota 3:">
+                     <font>
+                        <Font name="System Bold" size="14.0" />
+                     </font>
+                  </Text>
+                  <TextField fx:id="txtNota2" layoutX="371.0" layoutY="61.0" />
+                  <TextField fx:id="txtNota3" layoutX="371.0" layoutY="105.0" />
+                  <Separator layoutX="15.0" layoutY="190.0" prefHeight="4.0" prefWidth="569.0" style="-fx-background-color: black;" />
+                  <Button fx:id="btnAgregar" layoutX="265.0" layoutY="209.0" mnemonicParsing="false" onAction="#agregarEstudianteAction" prefHeight="25.0" prefWidth="85.0" text="Agregar" />
+                  <Button fx:id="btnActualizar" layoutX="403.0" layoutY="209.0" mnemonicParsing="false" onAction="#actualizarEstudianteAction" prefHeight="25.0" prefWidth="85.0" text="Actualizar" />
+                  <Button fx:id="btnNuevo" layoutX="109.0" layoutY="209.0" mnemonicParsing="false" onAction="#nuevoEstudianteAction" prefHeight="25.0" prefWidth="85.0" text="Nuevo" />
+                  <ComboBox fx:id="comboModalidad" layoutX="86.0" layoutY="148.0" prefWidth="150.0" promptText="Modalidad" />
+               </children>
+            </AnchorPane>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="257.0" prefWidth="598.0">
+               <children>
+                  <TableView fx:id="tablaEstudiantes" layoutX="37.0" layoutY="14.0" prefHeight="200.0" prefWidth="526.0">
+                    <columns>
+                      <TableColumn fx:id="tcNombre" prefWidth="75.0" text="Nombre" />
+                      <TableColumn fx:id="tcApellido" prefWidth="75.0" text="Apellido" />
+                        <TableColumn fx:id="tcCodigo" prefWidth="75.0" text="Codigo" />
+                        <TableColumn fx:id="tcModalidad" prefWidth="75.0" text="Modalidad" />
+                        <TableColumn fx:id="tcNota1" prefWidth="75.0" text="Nota 1" />
+                        <TableColumn fx:id="tcNota2" prefWidth="75.0" text="Nota 2" />
+                        <TableColumn fx:id="tNota3" prefWidth="75.0" text="Nota 3" />
+                    </columns>
+                  </TableView>
+                  <Button fx:id="btnEliminar" layoutX="257.0" layoutY="229.0" mnemonicParsing="false" onAction="#eliminarEstudianteAction" prefHeight="25.0" prefWidth="85.0" text="Eliminar" />
+               </children>
+            </AnchorPane>
+        </items>
+      </SplitPane>
+   </children>
+</AnchorPane>

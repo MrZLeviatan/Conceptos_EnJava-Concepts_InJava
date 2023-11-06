@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/Persistencia/CRUD-Persistencia/Doc" />
+    <option name="OPTION_SCOPE" value="private" />
+    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="true" />
+    <option name="OPTION_DOCUMENT_TAG_VERSION" value="true" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -13,11 +19,18 @@
         <option value="$PROJECT_DIR$/Threads/pom.xml" />
         <option value="$PROJECT_DIR$/Threads/Ejercicio_03/pom.xml" />
         <option value="$PROJECT_DIR$/Threads/Ejercicio_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Persistencia/Ejercicio_02/pom.xml" />
+        <option value="$PROJECT_DIR$/Threads/Parcial02_03/pom.xml" />
+        <option value="$PROJECT_DIR$/Persistencia/CRUD-Persistencia/pom.xml" />
+        <option value="$PROJECT_DIR$/Persistencia/Colegio-Persistencia/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/Hilos/Ejercicio_02/pom.xml" />
+        <option value="$PROJECT_DIR$/Persistencia/CRUD-Persistencia/pom.xml" />
+        <option value="$PROJECT_DIR$/Persistencia/Colegio-Persistencia/pom.xml" />
+        <option value="$PROJECT_DIR$/Persistencia/Ejercicio_01/pom.xml" />
         <option value="$PROJECT_DIR$/Threads/Ejercicio_02/pom.xml" />
         <option value="$PROJECT_DIR$/Threads/Ejercicio_03/pom.xml" />
       </set>
