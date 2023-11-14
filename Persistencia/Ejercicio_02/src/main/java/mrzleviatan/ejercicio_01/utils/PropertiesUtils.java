@@ -18,7 +18,7 @@ public class PropertiesUtils {
         try {
 
             properties = new Properties();
-            fileInputStream = new FileInputStream("Persistencia/Ejercicio_02/src/main/resources/config/Modalidad.properties");
+            fileInputStream = new FileInputStream("Persistencia/Ejercicio_02/src/main/resources/Config/Modalidad.properties");
             properties.load(fileInputStream);
 
 

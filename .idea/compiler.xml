@@ -8,14 +8,19 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Persistencia" />
         <module name="Ejercicio_02" />
+        <module name="Sockets" />
         <module name="Parcial02_03" />
         <module name="Ejercicio_2" />
+        <module name="Ejercicio_TCP" />
+        <module name="Ejercicio_UDP" />
         <module name="Ejercicio_1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Colegio-Persistencia" target="17" />
       <module name="CRUD-Persistencia" target="17" />
+      <module name="Ejemplo_01" target="17" />
+      <module name="Ejemplos_RabbitMq" target="17" />
       <module name="Ejercicio_01" target="17" />
       <module name="Ejercicio_01 (1)" target="17" />
       <module name="Ejercicio_01 (2)" target="17" />

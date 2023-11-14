@@ -91,9 +91,9 @@ public class Persistencia {
 
         for (Estudiante estudiante:listaEstudiante){
 
-            contenido +=      estudiante.getNombre()+
-                              " @@ " + estudiante.getApellido()+
-                              " @@ " + estudiante.getCodigo()+
+            contenido +=      "Nombre "+estudiante.getNombre()+
+                              " @@ " + "Apellido "+estudiante.getApellido()+
+                              " @@ " + "Codigo: "+estudiante.getCodigo()+
                               " @@ " + estudiante.getModalidad() +
                               " @@ " + estudiante.getNota1()+
                               " @@ " + estudiante.getNota2()+

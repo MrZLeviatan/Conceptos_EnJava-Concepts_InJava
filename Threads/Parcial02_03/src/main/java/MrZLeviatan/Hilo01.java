@@ -81,6 +81,8 @@ public class Hilo01 extends Thread {
 
         }
 
+        System.out.println(" Hilo 1 ah finalizado");
+
 
     }
 }

@@ -34,7 +34,16 @@ que comparten recursos y se ejecutan de manera concurrente en el mismo programa.
 proporciona una API de hilos que permiten crear, controlar y coordinar multiples hilos en una
 aplicacion.
 
-- En esta carpeta se muestran los distintos ejercicios relacionados con los"Threads".
+- En esta carpeta se muestran los distintos ejercicios relacionados con los "Threads".
 - Se denota el uso de la libreria JavaFx.
 
 ___
+
+## [_Sockets_](./Sockets)
+Los Sockets en Java son API de la programacion que permiten la comunicacion entre procesos
+a traves de una red. Un socket proporciona un punto de conexion para que los programas se 
+comuniquen entre sí, ya sea en una misma máquina o a traves de una red. 
+
+- En esta carpeta se muestran los distintos ejercicios relacionados con los "Sockets".
+- Se demostrará el uso del aplicativo "RabbitMq" como servidor de comunicacion.
+- Se denota el uso de la libreria JavaFx. 

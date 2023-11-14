@@ -26,11 +26,8 @@ public class Main {
 
        hilo01.start();
 
-       hilo01.join();
-
        hilo2.start();
 
-       hilo2.join();
 
 
 
@@ -39,7 +36,7 @@ public class Main {
            c = hilo01.recorrerMatriz(m)/ hilo2.recorrerMatriz(m);
            System.out.println( "\n El numero de a/b es = "+c);
 
-       }else{
+           }else{
            System.out.println("b es un 0");
        }
 

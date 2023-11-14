@@ -20,3 +20,5 @@ nov. 05, 2023 10:37:17 P. M. mrzleviatan.ejercicio_01.utils.ArchivoUtil guardar
 INFO: ,Inicio De Sesion,2023 - 11 - 05 - 10 - 37
 nov. 05, 2023 10:37:41 P. M. mrzleviatan.ejercicio_01.utils.ArchivoUtil guardarRegistroLog
 INFO: ,Inicio De Sesion,2023 - 11 - 05 - 10 - 37
+nov. 07, 2023 6:39:52 P. M. mrzleviatan.ejercicio_01.utils.ArchivoUtil guardarRegistroLog
+INFO: ,Inicio De Sesion,2023 - 11 - 07 - 6 - 39
