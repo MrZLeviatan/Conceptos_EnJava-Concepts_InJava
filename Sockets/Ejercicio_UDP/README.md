@@ -6,6 +6,10 @@ de la transferencia de datos, y no se garantiza la entrega ordenada y sin errore
 datos. 
 
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/117557162/282655641-a1907e8e-272d-4025-9ae7-a07d51775e5a.jpg" />
+</p>
+
 ## _Problematica_
 En este ejemplo se demuestra una conexion UDP "Cliente" y "Servidor".
 
