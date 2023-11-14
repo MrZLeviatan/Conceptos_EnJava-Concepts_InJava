@@ -9,7 +9,10 @@ ___
 #### _A continuacion se demostrarán distintos ejemplos usando la API "Sockets" en distintos ejercicios orientados en la programación de Java:_
 
 
-# _Ejercicios Basicos:_
+# _Diferentes Conexiones:_
+
+
+![ImagenExplicacion](https://user-images.githubusercontent.com/117557162/282651547-4f0afea9-aca0-4174-96e2-09c08f446001.jpg)
 
 ## [_Ejercicio_TCP_](./Ejercicio_TCP)
 
