@@ -11,8 +11,10 @@ ___
 
 # _Diferentes Conexiones:_
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/117557162/282652156-e67ecf9a-4716-4d72-a244-1e9635378f9e.jpg" />
+</p>
 
-![ImagenExplicacion](https://user-images.githubusercontent.com/117557162/282651547-4f0afea9-aca0-4174-96e2-09c08f446001.jpg)
 
 ## [_Ejercicio_TCP_](./Ejercicio_TCP)
 
