@@ -50,11 +50,9 @@ public class Servidor {
 
             }
 
-
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
-
 
     }
 }

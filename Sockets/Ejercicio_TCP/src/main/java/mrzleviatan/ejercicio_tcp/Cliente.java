@@ -5,16 +5,9 @@ import java.io.DataOutputStream;
 import java.io.IOException;
 import java.net.Socket;
 
-/**
- * The type Cliente.
- */
+
 public class Cliente {
 
-    /**
-     * Main.
-     *
-     * @param args the args
-     */
     public static void main (String [] args){
 
 
@@ -22,7 +15,6 @@ public class Cliente {
         final int PUERTO =  5000;
         DataInputStream in;
         DataOutputStream out;
-
 
 
         try {

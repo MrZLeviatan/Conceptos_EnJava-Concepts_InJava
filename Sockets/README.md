@@ -27,7 +27,7 @@ demuestra una conexion entre "Cliente" y "Servidor".
 La conexion UDP (User Datagram Protocol) es un protocolo de transporte sin conexion y no
 orientado a la conexion. Esto significa que no hay establecimiento de conexion antes
 de la transferencia de datos, y no se garantiza la entrega ordenada y sin errores de los 
-datos. En este ejemplo se demuestra una conexion
+datos. En este ejemplo se demuestra una conexion UDP "Cliente" y "Servidor".
 
 
 ___
