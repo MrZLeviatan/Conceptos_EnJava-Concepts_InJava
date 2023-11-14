@@ -3,6 +3,10 @@
 La conexion TCP (Transmission Control Protocol) es un protocolo de comunicacion el cual el
 servidor conoce quien está conectado mediante puertos de conexion. 
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/117557162/282655617-2dc9fde5-3cd0-4f47-be5f-26b099758b52.jpg" />
+</p>
+
 
 ## _Problematica_
 En este ejemplo se demuestra una conexion entre "Cliente" y "Servidor".
