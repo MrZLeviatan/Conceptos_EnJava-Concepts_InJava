@@ -4,7 +4,13 @@ La recursividad en java es una tecnica de programación en la que un metodo se l
 mismo para resolver un problema. Esto se logra dividiendo un problema en subproblemas más
 pequeños con el fin de resolverlos recursivamente.
 
-___
+
+
+<p align="center">
+  <img src="https://github.com/MrZLeviatan/Conceptos_EnJava/assets/117557162/9517ff60-5fd2-462d-b59a-5113a458cdf1" />
+</p>
+
+_____
 
 #### _A continuacion se demostrarán distintos ejemplos usando la tecnica "Recursividad" en distintos ambitos de la programación de Java:_
 
