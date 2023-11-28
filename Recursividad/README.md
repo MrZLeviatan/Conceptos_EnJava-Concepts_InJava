@@ -7,7 +7,7 @@ pequeños con el fin de resolverlos recursivamente.
 
 
 <p align="center">
-  <img src="https://github.com/MrZLeviatan/Conceptos_EnJava/assets/117557162/9517ff60-5fd2-462d-b59a-5113a458cdf1" />
+  <img src="https://github.com/MrZLeviatan/Conceptos_EnJava/assets/117557162/5211eeee-3015-4a73-8e95-92c5e46a623e" />
 </p>
 
 _____
