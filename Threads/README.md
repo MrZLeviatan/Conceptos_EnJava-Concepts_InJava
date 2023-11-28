@@ -6,6 +6,16 @@ que comparten recursos y se ejecutan de manera concurrente en el mismo programa.
 proporciona una API de hilos que permiten crear, controlar y coordinar multiples hilos en una
 aplicacion.
 
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github.com/MrZLeviatan/Conceptos_EnJava/assets/117557162/3c0d6abf-a489-4283-b590-813bf047049a">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MrZLeviatan/Conceptos_EnJava/assets/117557162/fd7dd7fa-23d9-4f6e-9858-a4ebb2141966">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+</p>
+
+
 ___
 
 #### _A continuacion se demostrarán distintos ejemplos usando la API "Threads" en distintos ejercicios orientados en la programación de Java:_
