@@ -10,7 +10,7 @@ una solucion válida, retrocede (hacer "backtrack") para probar una alternativa 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://github.com/MrZLeviatan/Conceptos_EnJava/assets/117557162/5ecc1d8c-36ce-4e5c-8a29-62b5bb1d3b19">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/MrZLeviatan/Conceptos_EnJava/assets/117557162/9311f983-480f-4684-90b9-0cf212f1eda3">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/MrZLeviatan/Conceptos_EnJava/assets/117557162/5ecc1d8c-36ce-4e5c-8a29-62b5bb1d3b19">
 </picture>
 </p>
 
