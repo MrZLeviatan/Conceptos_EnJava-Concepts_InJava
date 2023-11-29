@@ -26,7 +26,9 @@ himself to solve a problem. This is achieved by dividing a problem into smaller 
 small in order to solve them recursively.
 > - This folder shows different exercises and examples with cases of recursion;
 Thus demonstrating what the base and recursive cases are. It also denotes the use of data already burned or data requested by the console.
-___
+
+<br>
+</br>
 
 ## [_BackTracking_](./Backtracking)
 El BackTracking en java es un enfoque de programación utilizado para encontrar soluciones a
@@ -47,8 +49,8 @@ a valid solution, backtrack to try a different alternative.
 Backtracking: Thus demonstrating which are the most common with programming mechanics
 Backtracking.
 >- The use of famous programming games with their solutions is also noted.
-
-___
+<br>
+</br>
 
 ## [_Threads_](./Threads)
 Los Threads en java son subprocesos de ejecución independientes que permiten que un programa
@@ -67,8 +69,8 @@ provides a threading API that allows you to create, control and coordinate multi
 application.
 >- This folder shows the different exercises related to the "Threads".
 >- The use of the JavaFx library is denoted.
-
-___
+<br>
+</br>
 
 ## [_Sockets_](./Sockets)
 Los Sockets en Java son API de la programacion que permiten la comunicacion entre procesos
