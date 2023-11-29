@@ -18,23 +18,39 @@ _____
 # _Ejercicios Basicos: / Basic Exercises:_
 
 A continuación se mostrarán distintos ejercicios basicos de la recursividad. Estos ejercicios te proporcionarán una base sólida para comprender y aplicar la recursividad en tus proyectos de programación.
->Different basic recursion exercises will be shown below. These exercises will provide you with a solid foundation to understand and apply recursion in your programming projects.
+>Different basic recursion exercises will be shown below. These exercises will provide you with a solid foundation to understand and apply recursion in your programming projects...
+<br>
+</br>
 
-
-## [_Ejercicio 01_](Ejercicios%20Basicos/Ejercicio1)
+## [_Ejercicio 01 / Exercise 01_](Ejercicios%20Basicos/Ejercicio1)
 En este ejercicio se pide contar las cifras de un valor pedido por consola utilizando los metodos de recursividad.
+>In this exercise you are asked to count the figures of a value requested by console using recursion methods.
+<br>
+</br>
 
-## [_Ejercicio 04_](Ejercicios%20Basicos/Ejercicio4)
+## [_Ejercicio 04_/ Exercise 04](Ejercicios%20Basicos/Ejercicio4)
 En este ejercicio se pide la suma de las cifras de un valor pedido por consola utilizando los metodos de recursividad.
+>In this exercise, the sum of the figures of a value requested by console is requested using recursion methods.
+<br>
+</br>
 
-## [_Ejercicio 10_](Ejercicios%20Basicos/Ejercicio10)
+## [_Ejercicio 10_/ Exercise 10](Ejercicios%20Basicos/Ejercicio10)
 En este ejercicio se pide invertir una palabra pedida por consola utilizando los metodos recursivos.
+>In this exercise you are asked to reverse a word requested by the console using recursive methods.
+<br>
+</br>
 
-## [_Ejercicio 12_](Ejercicios%20Basicos/Ejercicio12)
+## [_Ejercicio 12 / Exercise 12_](Ejercicios%20Basicos/Ejercicio12)
 En este ejercicio se pide la potencia de una bases y un potenciado pedido por consola utilizando los metodos de recursividad.
+>n this exercise, the power of a base and a power requested by console are requested using recursion methods.
+<br>
+</br>
 
 ## [_Fibonacci_](Ejercicios%20Basicos/Fibonacci)
 En este ejercicio se halla la ecuacion fibonacci con el límite del número pedido por consola; Utilizando los metodos de recursividad.
+>In this exercise the Fibonacci equation is found with the limit of the number requested per console; Using recursion methods.
+<br>
+</br>
 
 ___
 # _Ejercicios Array:_
