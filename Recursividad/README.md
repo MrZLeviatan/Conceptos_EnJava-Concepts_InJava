@@ -24,7 +24,7 @@ A continuación se mostrarán distintos ejercicios basicos de la recursividad. E
 ## [_Ejercicio 01_](Ejercicios%20Basicos/Ejercicio1)
 En este ejercicio se pide contar las cifras de un valor pedido por consola utilizando los metodos de recursividad.
 
-## [_Ejercicio 04_](./Ejercicio4)
+## [_Ejercicio 04_](Ejercicios%20Basicos/Ejercicio4)
 En este ejercicio se pide la suma de las cifras de un valor pedido por consola utilizando los metodos de recursividad.
 
 ## [_Ejercicio 10_](./Ejercicio10)

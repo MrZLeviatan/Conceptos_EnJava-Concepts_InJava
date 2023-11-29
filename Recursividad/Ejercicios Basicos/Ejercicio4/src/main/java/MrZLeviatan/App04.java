@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class App04 {
         /*
          CASO BASE:
-             -El modulo (%) del numero en 10, es el ultimo digito a sumar
+             -El módulo (%) del número en 10, es el último dígito a sumar
         */
         public static void main(String[] args) {
 
