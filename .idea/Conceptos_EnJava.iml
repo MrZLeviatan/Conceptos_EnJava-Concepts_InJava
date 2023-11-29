@@ -3,27 +3,27 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/Recursividad/Ejercicio2/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Recursividad/Ejercicio3/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Recursividad/Ejercicio5/src/main/java/MrZLeviatan" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Recursividad/Ejercicio6/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Recursividad/Ejercicio7/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Recursividad/Ejercicio8/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Recursividad/Fibonacci/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Backtracking/JuegoMochila/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Backtracking/Carcel/src/main/java/MrZLeviatan" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Backtracking/JuegoDelCaballo/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Backtracking/Laberinto/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Recursividad/Ejercicio10/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Recursividad/Ejercicio10_2.0/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Recursividad/Ejercicio12/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Recursividad/Ejercicio12_2.0/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Backtracking/CampoDeGuerra/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Backtracking/Parqueadero/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Recursividad/EjercicioParcial01_02/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Threads/Ejercicio_03/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Recursividad/Ejercicios Array/Ejercicio2/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Recursividad/Ejercicios Array/Ejercicio3/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Recursividad/Ejercicios Array/Ejercicio5/src/main/java/MrZLeviatan" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Recursividad/Ejercicios Array/Ejercicio6/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Recursividad/Ejercicios Array/Ejercicio7/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Recursividad/Ejercicios Basicos/Ejercicio1/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Recursividad/Ejercicios Basicos/Ejercicio10/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Recursividad/Ejercicios Basicos/Ejercicio12/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Recursividad/Ejercicios Basicos/Ejercicio4/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Recursividad/Ejercicios Basicos/Fibonacci/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Recursividad/Ejercicios Matriz/Ejercicio11/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Recursividad/Ejercicios Matriz/Ejercicio13/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Recursividad/Ejercicios Matriz/Ejercicio8/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Recursividad/Ejercicios Matriz/Ejercicio9/src/main/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
