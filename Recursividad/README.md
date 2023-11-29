@@ -1,9 +1,12 @@
-# _Recursividad_
+# _Recursividad / Recursion_
 
 La recursividad en java es una tecnica de programación en la que un metodo se llama a sí
 mismo para resolver un problema. Esto se logra dividiendo un problema en subproblemas más
 pequeños con el fin de resolverlos recursivamente.
 
+>Recursion in Java is a programming technique in which a method calls itself
+himself to solve a problem. This is achieved by dividing a problem into smaller subproblems.
+small in order to solve them recursively.
 
 
 <p align="center">
@@ -12,9 +15,10 @@ pequeños con el fin de resolverlos recursivamente.
 
 _____
 
-#### _A continuacion se demostrarán distintos ejemplos usando la tecnica "Recursividad" en distintos ambitos de la programación de Java:_
+# _Ejercicios Basicos: / Basic Exercises:_
 
-# _Ejercicios Basicos:_
+A continuación se mostrarán distintos ejercicios basicos de la recursividad. Estos ejercicios te proporcionarán una base sólida para comprender y aplicar la recursividad en tus proyectos de programación.
+>Different basic recursion exercises will be shown below. These exercises will provide you with a solid foundation to understand and apply recursion in your programming projects.
 
 
 ## [_Ejercicio 01_](./Ejercicio1)
