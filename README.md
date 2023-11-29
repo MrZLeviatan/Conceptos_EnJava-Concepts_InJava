@@ -1,17 +1,31 @@
-# _Mecanicas Y Conceptos_EnJava_
 
-## _Introduccion_
-En este repositorio se demostrará diversos conceptos parcheados de java; Con el fin de poder usarlos en futuros proyectos de manera profecional.
+# _Conceptos_EnJava_ / _Concepts_InJava_
+
+## _Introduccion / **Introduction**_
+ En este repositorio encontraras los conceptos generales y claves de java. Desde los fundamentos basicos hasta las tecnicas avanzadas, nuestro repositorio esta diseñado para ser tu guia confiable en este aprendizaje y perfeccionamiento en Java.
+
+>***In this repository you will find the general concepts and keys of Java. From basic fundamentals to advanced techniques, our repository is designed to be your trusted guide in learning and improving Java.***
+
+<p align="center">
+  <img src="https://github.com/MrZLeviatan/Conceptos_EnJava/assets/117557162/c237329b-e26e-421d-b6cc-b9451bd4cf00" />
+</p>
 
 ___
 
-## [_Recursividad_](./Recursividad)
+## [_Recursividad / Recursion_](./Recursividad)
 La recursividad en java es una tecnica de programación en la que un metodo se llama a sí 
 mismo para resolver un problema. Esto se logra dividiendo un problema en subproblemas más 
 pequeños con el fin de resolverlos recursivamente.
 
 - En esta carpeta se muestran distintos ejercicios y ejemplos con casos de recursividad; 
 Demostrando asi cuáles son los casos base y recursivos. Se denota también el uso de datos ya quemados oh datos pedidos por consola.
+
+
+>Recursion in Java is a programming technique in which a method calls itself
+himself to solve a problem. This is achieved by dividing a problem into smaller subproblems.
+small in order to solve them recursively.
+> - This folder shows different exercises and examples with cases of recursion;
+Thus demonstrating what the base and recursive cases are. It also denotes the use of data already burned or data requested by the console.
 ___
 
 ## [_BackTracking_](./Backtracking)
@@ -25,6 +39,15 @@ Backtracking: Demostrando asi cuáles son los más comunes con la mecanica de pr
 Backtracking. 
 - Se denota también el uso de juegos famosos de la programacion con su solucion.
 
+>BackTracking in Java is a programming approach used to find solutions to
+problems that involve the systematic exploration of multiple options. This approach is
+characterized by trying a series of choices and, in the event that a choice does not lead to
+a valid solution, backtrack to try a different alternative.
+>- This folder shows different exercises and games with recursive cases and
+Backtracking: Thus demonstrating which are the most common with programming mechanics
+Backtracking.
+>- The use of famous programming games with their solutions is also noted.
+
 ___
 
 ## [_Threads_](./Threads)
@@ -37,6 +60,14 @@ aplicacion.
 - En esta carpeta se muestran los distintos ejercicios relacionados con los "Threads".
 - Se denota el uso de la libreria JavaFx.
 
+>Threads in Java are independent execution threads that allow a program
+perform multiple tasks simultaneously. "Threads" are small processing units
+that share resources and run concurrently in the same program. Java
+provides a threading API that allows you to create, control and coordinate multiple threads in a
+application.
+>- This folder shows the different exercises related to the "Threads".
+>- The use of the JavaFx library is denoted.
+
 ___
 
 ## [_Sockets_](./Sockets)
@@ -46,4 +77,11 @@ comuniquen entre sí, ya sea en una misma máquina o a traves de una red.
 
 - En esta carpeta se muestran los distintos ejercicios relacionados con los "Sockets".
 - Se demostrará el uso del aplicativo "RabbitMq" como servidor de comunicacion.
-- Se denota el uso de la libreria JavaFx. 
+- Se denota el uso de la libreria JavaFx.
+
+>Sockets in Java are programming APIs that allow communication between processes
+through a network. A socket provides a connection point for programs to connect.
+communicate with each other, either on the same machine or through a network.
+>- This folder shows the different exercises related to "Sockets".
+>- The use of the "RabbitMq" application as a communication server will be demonstrated.
+>- The use of the JavaFx library is denoted.
