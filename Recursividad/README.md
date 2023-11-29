@@ -15,7 +15,7 @@ small in order to solve them recursively.
 
 _____
 
-# [_Ejercicios Basicos: / Basic Exercises:_](Ejercicios%20Basicos)
+# _Ejercicios Basicos: / Basic Exercises:_
 
 A continuación se mostrarán distintos ejercicios basicos de la recursividad. Estos ejercicios te proporcionarán una base sólida para comprender y aplicar la recursividad en tus proyectos de programación.
 >Different basic recursion exercises will be shown below. These exercises will provide you with a solid foundation to understand and apply recursion in your programming projects...
