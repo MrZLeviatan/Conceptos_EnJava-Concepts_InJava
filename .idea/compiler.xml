@@ -6,24 +6,28 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Persistencia" />
         <module name="Ejercicio_02" />
-        <module name="Sockets" />
-        <module name="Parcial02_03" />
         <module name="Ejercicio_2" />
-        <module name="Ejercicio_TCP" />
-        <module name="Ejercicio_UDP" />
         <module name="Ejercicio_1" />
+        <module name="Ejemplo_UDP" />
+        <module name="Ejemplo_TCP" />
+        <module name="Persistencia" />
+        <module name="EJercicio_1-02 (2)" />
+        <module name="Sockets" />
+        <module name="EJercicio_1-02 (1)" />
+        <module name="Parcial02_03" />
+        <module name="Ejemplo_01" />
+        <module name="Ejercicio_01" />
+        <module name="Ejemplos_RabbitMq" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Colegio-Persistencia" target="17" />
       <module name="CRUD-Persistencia" target="17" />
-      <module name="Ejemplo_01" target="17" />
-      <module name="Ejemplos_RabbitMq" target="17" />
-      <module name="Ejercicio_01" target="17" />
       <module name="Ejercicio_01 (1)" target="17" />
       <module name="Ejercicio_01 (2)" target="17" />
+      <module name="Ejercicio_03" target="17" />
+      <module name="EJercicio_1-02" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>

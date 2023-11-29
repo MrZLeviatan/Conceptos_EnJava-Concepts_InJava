@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="JavadocGenerationManager">
@@ -27,6 +28,14 @@
         <option value="$PROJECT_DIR$/Sockets/Ejemplo_RabbitMq/pom.xml" />
         <option value="$PROJECT_DIR$/Sockets/Ejemplo_RabbitMq/Ejemplo_01/pom.xml" />
         <option value="$PROJECT_DIR$/Sockets/Ejercicio_UDP/pom.xml" />
+        <option value="$PROJECT_DIR$/Sockets/Ejercicio_03/pom.xml" />
+        <option value="$PROJECT_DIR$/Sockets/Ejemplo_UDP/pom.xml" />
+        <option value="$PROJECT_DIR$/Sockets/Ejemplo_TCP/pom.xml" />
+        <option value="$PROJECT_DIR$/Sockets/Ejercicio_01/pom.xml" />
+        <option value="$PROJECT_DIR$/Sockets/Ejemplos_RabbitMq/pom.xml" />
+        <option value="$PROJECT_DIR$/Sockets/Ejemplos_RabbitMq/Ejemplo_01/pom.xml" />
+        <option value="$PROJECT_DIR$/Threads/EJercicio_1-02/pom.xml" />
+        <option value="$PROJECT_DIR$/Threads/EJercicio_1-02-TxT/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -35,6 +44,7 @@
         <option value="$PROJECT_DIR$/Persistencia/CRUD-Persistencia/pom.xml" />
         <option value="$PROJECT_DIR$/Persistencia/Colegio-Persistencia/pom.xml" />
         <option value="$PROJECT_DIR$/Persistencia/Ejercicio_01/pom.xml" />
+        <option value="$PROJECT_DIR$/Sockets/Ejercicio_03/pom.xml" />
         <option value="$PROJECT_DIR$/Threads/Ejercicio_02/pom.xml" />
         <option value="$PROJECT_DIR$/Threads/Ejercicio_03/pom.xml" />
       </set>

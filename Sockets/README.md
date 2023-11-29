@@ -16,13 +16,13 @@ ___
 </p>
 
 
-## [_Ejercicio_TCP_](./Ejercicio_TCP)
+## [_Ejemplo_TCP_](./Ejemplo_TCP)
 
 La conexion TCP (Transmission Control Protocol) es un protocolo de comunicacion el cual el 
 servidor conoce quien está conectado mediante puertos de conexion. En este ejemplo se 
 demuestra una conexion entre "Cliente" y "Servidor".
 
-## [_Ejercicio_UDP_](./Ejercicio_UDP)
+## [_Ejemplo_UDP_](./Ejemplo_UDP)
 
 La conexion UDP (User Datagram Protocol) es un protocolo de transporte sin conexion y no
 orientado a la conexion. Esto significa que no hay establecimiento de conexion antes
@@ -33,4 +33,10 @@ datos. En este ejemplo se demuestra una conexion UDP "Cliente" y "Servidor".
 ___
 
 
-# _Ejemplos RabbitMQ:_
+# [_Rabbit Mq_](./Ejemplos_RabbitMq)
+
+RabbitMq es un software de intermediario de mensaje de codigo abierto que implementa
+el _Protocolo de Mensaje Avanzado_ (AMQP). Funciona como un sistema de mensajeria, 
+permitiendo que diferentes aplicaciones se comuniquen entre sí mediante el intercambio
+de mensajes. 
+
