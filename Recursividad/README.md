@@ -21,7 +21,7 @@ A continuación se mostrarán distintos ejercicios basicos de la recursividad. E
 >Different basic recursion exercises will be shown below. These exercises will provide you with a solid foundation to understand and apply recursion in your programming projects.
 
 
-## [_Ejercicio 01_](./Ejercicio1)
+## [_Ejercicio 01_](Ejercicios%20Basicos/Ejercicio1)
 En este ejercicio se pide contar las cifras de un valor pedido por consola utilizando los metodos de recursividad.
 
 ## [_Ejercicio 04_](./Ejercicio4)
