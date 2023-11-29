@@ -1,4 +1,4 @@
-# _Ejercicios Arrayist: / ArrayLList Exercises:_
+# _Ejercicios ArrayList: / ArrayList Exercises:_
 A continuación se mostrarán diverso ejercicios basicos de la recursividad utiizando la estructura ArrayList. Estos ejercicios te proporcionan un conocimiento mas avanzado sobre la recursividad y sus distintos usos.
 >Below we will show various basic recursion exercises using the ArrayList structure. These exercises provide you with more advanced knowledge about recursion and its different uses.
 <br>
