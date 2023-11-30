@@ -22,10 +22,12 @@ _______
 ### _MainApp_
 Inicia la aplicacion pidiendo un valor 
 >Start the application asking for a value
+<br>
+</br>
 
 > [!IMPORTANT]
-> Se denota el uso de <strong> Excepciones </strong>. Verse en la carpeta de [Excepciones](/../Exception).
->>  The use of <strong>Exceptions </strong> is denoted. See the exceptions [Exercises](/../Exception).
+> Se denota el uso de <strong> Excepciones </strong>. Verse en la carpeta de [Excepciones](https://github.com/MrZLeviatan/Conceptos_EnJava-Concepts_InJava/tree/main/Exception).
+>>  The use of <strong>Exceptions </strong> is denoted. See the [Exceptions](https://github.com/MrZLeviatan/Conceptos_EnJava-Concepts_InJava/tree/main/Exception) exercises.
 
 ```java
 public Class App {
