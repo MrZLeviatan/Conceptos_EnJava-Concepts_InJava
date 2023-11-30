@@ -1,12 +1,16 @@
 
-# _Ejercicio Fibonacci_
+# _Ejercicio Fibonacci / Exercise Fibonacci_
 
 En este ejercicio se halla la ecuacion fibonacci con el 
 limite del numero pedido por consola; Utilizando los metodos de 
 recursividad.
+>In this exercise the Fibonacci equation is found with the
+limit of the number requested per console; Using the methods of
+recursion.
 
-## _Problematica_
+## _Problematica: / Problematic:_
 Crear una aplicativo para hallar la serie Fibonacci.
+>Create an application to find the Fibonacci series.
 
 
 ## _Tool_
@@ -18,7 +22,16 @@ ___________
 
 # _Class_
 
-## _MainApp_
+### _MainApp_
+Inicia la aplicacion pidiendo un valor 
+>Start the application asking for a value
+<br>
+</br>
+
+> [!IMPORTANT]
+> Se denota el uso de <strong> Excepciones </strong>. Verse en la carpeta de [Excepciones](/../main/Exception).
+>>  The use of <strong>Exceptions </strong> is denoted. See the [Exceptions](/../main/Exceptio) exercises.
+
 
 ```java
 
