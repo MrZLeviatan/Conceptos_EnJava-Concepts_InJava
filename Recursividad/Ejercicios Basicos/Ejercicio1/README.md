@@ -8,6 +8,7 @@ En este ejercicio se pide contar las cifras de un valor pedido por consola utili
 Hallar la cantidad de cifras de un número entero usando la recursividad. Parámetro: n (número entero)
 >Find the number of digits of an integer using recursion. Parameter: n (integer)
 
+
 ## _Tool_
 
  - Java 17
@@ -21,6 +22,10 @@ _______
 ### _MainApp_
 Inicia la aplicacion pidiendo un valor 
 >Start the application asking for a value
+
+> [!IMPORTANT]
+> Se denota el uso de <strong> Excepciones </strong>. Verse en la carpeta de [Excepciones](/../Exception).
+>>  The use of <strong>Exceptions </strong> is denoted. See the exceptions [Exercises](/../Exception).
 
 ```java
 public Class App {
