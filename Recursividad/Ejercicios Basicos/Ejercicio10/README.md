@@ -1,9 +1,11 @@
-# _Ejercicio 10_
+# _Ejercicio 10 / Exercise 10_
 
 En este ejercicio se pide invertir una palabra pedida por consola utilizando los metodos recursivos.
+>In this exercise you are asked to reverse a word requested by the console using recursive methods.
 
-## _Problematica_
-Invertir una palabra de forma recursiva
+## _Problematica: / Problematic:_
+Invertir una palabra de forma recursiva.
+>Reverse a word recursively.
 
 ## _Tool_
 
@@ -15,9 +17,10 @@ Invertir una palabra de forma recursiva
 
 # _Class_
 
-## _MainApp_
+### _MainApp_
 
-Se inica la aplicacion pidiendo un String por consola
+Se inica la aplicacion pidiendo un String por consola.
+>The application starts asking for a String through the console.
 
 ```java
 
