@@ -1,14 +1,21 @@
-# _Ejercicio 3_
+# _Ejercicio 03 / Exercise 03_
 
 En este ejercicio se pide encontrar el 
 numero menor del arreglo ya quemado en ambos 
 sentidos del mismo utilizando recursividad.
+>In this exercise you are asked to find the
+smallest number of the arrangement already burned in both
+meanings of it using recursion.
+<br>
+</br>
 
-
-## _Problematica_
+## _Problematica: / Problematic:_
 El recorrido del arreglo se realiza de inicio a fin. El criterio de parada es cuando inicio y fin son iguales.
 Parámetros: vector[] (es el arreglo en el cual se encuentran los elementos), inicio (Es el inicio del arreglo), fin (Es el fin del arreglo y su valor es el tamaño del arreglo - 1).
-
+>The arrangement tour is carried out from start to finish. The stopping criterion is when start and end are equal.
+Parameters: vector[] (it is the array in which the elements are found), start (It is the beginning of the array), end (It is the end of the array and its value is the size of the array - 1).
+<br>
+</br>
 
 ## _Tool_
 - Java 17
@@ -19,7 +26,7 @@ ___________
 
 # _Class_
 
-## _MainApp_
+### _MainApp_
 
 ```java
 
