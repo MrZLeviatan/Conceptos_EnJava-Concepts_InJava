@@ -26,7 +26,7 @@ Inicia la aplicacion pidiendo un valor
 </br>
 
 > [!IMPORTANT]
-> Se denota el uso de <strong> Excepciones </strong>. Verse en la carpeta de [Excepciones](https://github.com/MrZLeviatan/Conceptos_EnJava-Concepts_InJava/tree/main/Exception).
+> Se denota el uso de <strong> Excepciones </strong>. Verse en la carpeta de [Excepciones](/../main/Exception).
 >>  The use of <strong>Exceptions </strong> is denoted. See the [Exceptions](https://github.com/MrZLeviatan/Conceptos_EnJava-Concepts_InJava/tree/main/Exception) exercises.
 
 ```java
