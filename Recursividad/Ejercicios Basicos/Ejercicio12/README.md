@@ -1,11 +1,13 @@
 
-# _Ejercicio 12_
+# _Ejercicio 12 / Exercise 12_
 
 En este ejercicio se pide la potencia de una bases y un potenciados pedidos por consola utilizando los metodos de recursividad.
+>In this exercise, the power of a base and a boosted request are requested by console using recursion methods.
 
-## _Problematica_
+## _Problematica: / Problematic:_
 
-Programar un algoritmo recursivo que permita calcular y retornar cualquier potencia para cualquier número. Por ejemplo base = 2 potencia = 3 
+Programar un algoritmo recursivo que permita calcular y retornar cualquier potencia para cualquier número. Por ejemplo base 2 potencia 3.
+>Program a recursive algorithm that allows you to calculate and return any power for any number. For example base 2 power 3.
 
 ## _Tool_
 
@@ -17,9 +19,15 @@ _______
 
 # _Class_
 
-## _MainApp_
-Inicia la aplicacion pidiendo dos valores
+### _MainApp_
+Inicia la aplicacion pidiendo dos valores.
+>Start the application requesting two values.
+<br>
+</br>
 
+> [!IMPORTANT]
+> Se denota el uso de <strong> Excepciones </strong>. Verse en la carpeta de [Excepciones](/../main/Exception).
+>>  The use of <strong>Exceptions </strong> is denoted. See the [Exceptions](/../main/Exceptio) exercises.
 ```java
 
 public class App12 {
