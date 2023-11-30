@@ -1,11 +1,15 @@
-# _Ejercicio 4_
+# _Ejercicio 04 / Exercise 04_
 
 En este ejercicio se pide la suma de las cifras 
 de un valor pedido por consola utilizando los 
 metodos de recursividad.
+>In this exercise we ask for the sum of the figures
+of a value requested by console using the
+recursion methods.
 
-## _Problematica_
+## _Problematica: Problematic:_
 Sume las cifras de un número. Parámetros: int n
+>Add the digits of a number. Parameters: int n
 
 ## _Tool_
 - Java 17
@@ -16,7 +20,16 @@ ___________
 
 # _Class_
 
-## _MainApp_
+### _MainApp_
+Inicia la aplicacion pidiendo un valor 
+>Start the application asking for a value
+<br>
+</br>
+
+> [!IMPORTANT]
+> Se denota el uso de <strong> Excepciones </strong>. Verse en la carpeta de [Excepciones](/../main/Exception).
+>>  The use of <strong>Exceptions </strong> is denoted. See the [Exceptions](/../main/Exceptio) exercises.
+
 
 ```java
 
