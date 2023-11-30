@@ -4,31 +4,31 @@ A continuación se mostrarán diverso ejercicios basicos de la recursividad utii
 <br>
 </br>
 
-* ## [_Ejercicio 02 / Exercise 02_](Ejercicios%20Array/Ejercicio2)
+* ## [_Ejercicio 02 / Exercise 02_](Ejercicio2)
 En este ejercicio se pide encontrar las veces que se repite el número 0 en un Array ya quemado utilizando los metodos de recursividad.
 >This exercise asks you to find the number of times the number 0 is repeated in an already burned Array using recursion methods.
 <br>
 </br>
 
-* ## [_Ejercicio 03 / Exercise 03_](Ejercicios%20Array/Ejercicio3)
+* ## [_Ejercicio 03 / Exercise 03_](Ejercicio3)
 En este ejercicio se pide encontrar el número menor del arreglo ya quemado en ambos sentidos del mismo utilizando los metodos recursividad.
 >In this exercise you are asked to find the smallest number of the already burned array in both directions using the recursion methods.
 <br>
 </br>
 
-* ## [_Ejercicio 05 / Exercise 05_](Ejercicios%20Array/Ejercicio5)
+* ## [_Ejercicio 05 / Exercise 05_](Ejercicio5)
 En este ejercicio se pide hallar la cantidad de veces que se repite un número pedido por consola en un array quemando utilizando los metodos recursivos.
 >This exercise asks you to find the number of times a number requested by the console is repeated in a burning array using recursive methods.
 <br>
 </br>
 
-* ## [_Ejercicio 06 / Exercise 06_](Ejercicios%20Array/Ejercicio6)
+* ## [_Ejercicio 06 / Exercise 06_](Ejercicio6)
 En este ejercicio se pide recorrer un array de forma bidirecciona utilizando los metodos recursivos.
 >This exercise asks you to traverse an array bidirectionally using recursive methods.
 <br>
 </br>
 
-* ## [_Ejercicio 07 / Exercise 07_](Ejercicios%20Array/Ejercicio7)
+* ## [_Ejercicio 07 / Exercise 07_](Ejercicio7)
 En este ejercicio se pide recorrer un array de elementos con el fin de  encontrar la cantidad de cierto elemento pedido por consola con los metodos recursivos.
 >In this exercise you are asked to traverse an array of elements in order to find the quantity of a certain element requested by the console with recursive methods.
 
