@@ -1,10 +1,22 @@
-# _Ejercicio 2_
+# _Ejercicio 02 / Exercise 02_
 
 En este ejercicio se pide encontrar las veces que se repite el numero 0 en un Array ya quemado utilizando los metodos de recursividad. La idea es poder recorrer el Array de derecha 
 a izquierda y viceversa contanto las veces que se repite el 0.
+>In this exercise you are asked to find the number of times the number 0 is repeated in an already burned Array using recursion methods. The idea is to be able to traverse the Array on the right
+to the left and vice versa counting the number of times the 0 is repeated.
+<br>
+</br>
 
-## _Problematica_
-Contar la cantidad de ceros que se encuentran dentro de un arreglo unidimensional de enteros. Parámetros: int arreglo[], int n 
+## _Problematica: / Problematic:_
+Contar la cantidad de ceros que se encuentran dentro de un arreglo unidimensional de enteros. Parámetros: int arreglo[], int n.
+>Count the number of zeros found within a one-dimensional array of integers. Parameters: int array[], int n.
+
+
+> [!NOTE]
+> En este ejercicio de igual forma se puede buscar cualquier numero deseado, solo es cambiar los parametros de busqueda quemados del numero "0" por el numero seleccionado.
+> >In this exercise you can also search for any desired number, just change the search parameters burned from the number "0" to the selected number.
+<br>
+</br>
 
 ## _Tool_
 - Java 17
@@ -15,7 +27,7 @@ ___________
 
 # _Class_
 
-## _MainApp_
+### _MainApp_
 
 ```java
 
