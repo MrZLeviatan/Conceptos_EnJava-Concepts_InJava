@@ -1,14 +1,26 @@
-# _Ejercicio 5_
+# _Ejercicio 05 / Exercise 05_
 
 En este ejercicio se pide hallar la cantidad de veces que 
 se repite un numero pedido por consola en un array quemando utilizando 
 los metodos recursivos.
+>In this exercise you are asked to find the number of times that
+a number requested by console is repeated in an array burning using
+recursive methods.
+<br>
+</br>
 
-## _Problematica_
+## _Problematica: / Problematic:_
 Recorra el arreglo desde la primera posición hasta 
 la última posición y retorne el número de veces que se 
 repite el elemento.  Parámetros: vector[] (arreglo en el 
-cual se encuentran los elementos), inicio (es el inicio del vector), fin (es el fin del vector), elem (es el número a buscar dentro del arreglo)
+cual se encuentran los elementos), inicio (es el inicio del vector), fin (es el fin del vector), elem (es el número a buscar dentro del arreglo).
+>Cycle through the arrangement from the first position to
+the last position and return the number of times it was
+repeat the element. Parameters: vector[] (array in the
+which elements are found), start (it is the start of the vector), end (it is the end of the vector), elem (it is the number to search within the array).
+<br>
+</br>
+
 
 ## _Tool_
 - Java 17
@@ -19,7 +31,11 @@ ___________
 
 # _Class_
 
-## _MainApp_
+### _MainApp_
+> [!IMPORTANT]
+> Se denota el uso de <strong> Excepciones </strong>. Verse en la carpeta de [Excepciones](/../main/Exception).
+>>  The use of <strong>Exceptions </strong> is denoted. See the [Exceptions](/../main/Exceptio) exercises.
+
 
 ```java
 
