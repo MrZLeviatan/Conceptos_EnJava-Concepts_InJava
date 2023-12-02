@@ -3,10 +3,20 @@
 En este ejercicio se pide contar las cifras de un valor pedido por consola utilizando los metodos de recursividad.
 >In this exercise you are asked to count the figures of a value requested by console using recursion methods.
 
+<br>
+</br>
+
 
 ## _Problematica: / Problematic:_
 Hallar la cantidad de cifras de un número entero usando la recursividad. Parámetro: n (número entero)
 >Find the number of digits of an integer using recursion. Parameter: n (integer)
+
+> [!IMPORTANT]
+> Se denota el uso de <strong> Excepciones </strong>. Verse en la carpeta de [Excepciones](/../main/Exception).
+>>  The use of <strong>Exceptions </strong> is denoted. See the [Exceptions](/../main/Exceptio) exercises.
+
+<br>
+</br>
 
 
 ## _Tool_
@@ -22,12 +32,6 @@ _______
 ### _MainApp_
 Inicia la aplicacion pidiendo un valor 
 >Start the application asking for a value
-<br>
-</br>
-
-> [!IMPORTANT]
-> Se denota el uso de <strong> Excepciones </strong>. Verse en la carpeta de [Excepciones](/../main/Exception).
->>  The use of <strong>Exceptions </strong> is denoted. See the [Exceptions](/../main/Exceptio) exercises.
 
 ```java
 public Class App {
