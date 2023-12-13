@@ -11,8 +11,8 @@ public class Rabbitactory {
         this.connectionFactory = new ConnectionFactory();
         this.connectionFactory.setHost("localhost");
         this.connectionFactory.setPort(5672);
-        this.connectionFactory.setUsername("MrZLeviatan");
-        this.connectionFactory.setPassword("Nicolas1001330212");
+        this.connectionFactory.setUsername("MrZLeviatanLx");
+        this.connectionFactory.setPassword("281002");
 
     }
 

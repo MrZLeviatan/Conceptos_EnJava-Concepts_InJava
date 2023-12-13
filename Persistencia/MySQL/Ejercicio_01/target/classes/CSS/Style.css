@@ -1,0 +1,147 @@
+.title{
+    -fx-font-size: 2em;
+    -fx-text-fill: #016A91;
+    -fx-font-weight: bold;
+}
+
+
+.form_container{
+    -fx-background-color: #EEEEEE;
+}
+
+.form_container Text{
+    -fx-font-size: 1.2em;
+    -fx-fill: #000000;
+}
+
+.form_container VBox{
+    -fx-border-width: 0 0 0 1;
+    -fx-border-color: #0A3353;
+    -fx-padding: 10;
+    -fx-spacing: 15;
+}
+
+.form_container TextField{
+    -fx-pref-height: 250;
+    -fx-pref-height: 35;
+    -fx-background-color: #FFFFFF;
+    -fx-font-size: 1.3em;
+    -fx-effect: dropshadow(three-pass-box,#0A3353,3, 0,0,3);
+}
+
+.form_container Button{
+    -fx-background-color: linear-gradient(to right,#0A3353, #016A91);
+    -fx-effect: dropshadow(three-pass-box,#AAAAAA,3,0,0,3);
+    -fx-pref-width: 100;
+    -fx-font-size: 1.5em;
+    -fx-font-family: "Calibri Light";
+    -fx-text-fill: #FFFFFF;
+}
+
+.form_container Button:hover{
+    -fx-cursor: hand;
+}
+
+
+.radio-button .radio {
+    -fx-border-width: 1px;
+    -fx-border-color: #016A91;
+    -fx-background-color: #FFFFFF;
+    -fx-background-image: null;
+    -fx-border-radius: 15px;
+    -fx-padding: 3px;
+}
+
+.radio-button .radio:selected{
+    -fx-background-color: #FFFFFF;
+    -fx-background-image: null;
+}
+
+.radio-button -radio:armed{
+    -fx-background-color: #FFFFFF;
+    -fx-background-image: null;
+}
+
+.radio-button -radio:determinate{
+    -fx-background-color: #FFFFFF;
+    -fx-background-image: null;
+}
+
+.radio-button -radio:indeterminate{
+    -fx-background-color: #FFFFFF;
+    -fx-background-image: null;
+}
+
+.radio-button .dot{
+    -fx-background-radius: 15px;
+    -fx-padding: 8px;
+}
+
+/**
+    Formato para las celdas del tableview.
+ */
+.table-cell{
+    -fx-padding: 0.5em 0.5em 0.1em 0.3em;
+    -fx-border-color: -fx-box-border -fx-box-border transparent transparent;
+    -fx-font: 13px "Segoe UI";
+    -fx-border-insets: 0;
+}
+/**
+    Color de fondo cuando el mouse este sobre la celda
+ */
+.table-cell:hover{
+    -fx-background-color: #016A91;
+}
+
+.table-row-cell:empty, .table-cell:empty:hover{
+    -fx-background-color: whitesmoke;
+}
+
+.table-row-cell:empty, .table-cell{
+    -fx-border-width: 0px;
+}
+
+.table-view:row-selection .table-row-cell:filled:hover{
+    -fx-background-color: rgba(28,183,236,0.25);
+}
+
+.table-view:row-selection .table-row-cell:filled:selected{
+    -fx-background-color: rgba(28,183,236,0.90);
+}
+
+.table-view:row-selection .table-row-cell:filled:selected{
+    -fx-background-color: rgba(28,183,236,0.65);
+}
+
+.table-view, .table-view:focused{
+    -fx-background-color:transparent, -fx-box-border,-fx-control-inner-background;
+    -fx-background-insets: -1.4,0,1;
+    -fx-background-radius: 1.4,0,0;
+}
+
+.table-view .column-header:hover{
+    -fx-text-fill: #52677A;
+    -fx-alignment: CENTER;
+}
+
+.table-view .column-header:hover{
+    -fx-background-color: whitesmoke;
+}
+
+.table-view .column-header, .table-view .filler{
+    -fx-background-color: white;
+    -fx-size:45;
+    -fx-border-color: -fx-box-border;
+    -fx-border-width: 0 1 3 0;
+    -fx-border-insets: 0;
+}
+
+.table-view .column-header-background{
+    -fx-background-color: transparent;
+}
+
+.table-view .show-hide-columns-button{
+    -fx-background-color: white;
+    -fx-border-color: -fx-box-border;
+    -fx-border-insets: 0;
+}

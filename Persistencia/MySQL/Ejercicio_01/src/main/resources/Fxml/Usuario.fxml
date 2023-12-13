@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ButtonBar?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Text?>
+
+<fx:root prefHeight="550.0" prefWidth="750.0" styleClass="form_container" stylesheets="@../CSS/Style.css" type="AnchorPane" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="mrzleviatan.ejercicio_01.UsuarioController">
+   <children>
+      <Text fill="#001c2e" layoutX="291.0" layoutY="53.0" smooth="false" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="title" />
+      <VBox layoutX="21.0" layoutY="100.0" prefHeight="294.0" prefWidth="286.0" styleClass="form_container">
+         <children>
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="FIrst Name" />
+            <TextField fx:id="tlName1" styleClass="form_container" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" styleClass="form_container" text="Last Name" />
+            <TextField fx:id="tlLastName1" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Phone" />
+            <TextField fx:id="tlPhone1" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Gender" />
+            <HBox prefHeight="100.0" prefWidth="200.0" spacing="15.0">
+               <children>
+                  <RadioButton mnemonicParsing="false" styleClass="titleRadioButton" text="Male">
+                     <toggleGroup>
+                        <ToggleGroup fx:id="gender" />
+                     </toggleGroup>
+                  </RadioButton>
+                  <RadioButton layoutX="10.0" layoutY="10.0" mnemonicParsing="false" text="Female" toggleGroup="$gender" />
+                  <RadioButton layoutX="65.0" layoutY="10.0" mnemonicParsing="false" text="Others" toggleGroup="$gender" />
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+      <TableView fx:id="table" layoutX="323.0" layoutY="112.0" prefHeight="294.0" prefWidth="401.0">
+         <columns>
+            <TableColumn fx:id="colid" editable="false" prefWidth="75.0" text="ID" />
+            <TableColumn fx:id="colfName" prefWidth="75.0" text="Name" />
+            <TableColumn fx:id="colLName" prefWidth="91.0" text="Last Name" />
+            <TableColumn fx:id="colPhone" prefWidth="77.0" text="Phone" />
+            <TableColumn fx:id="colGender" prefWidth="82.0" text="Gender" />
+         </columns>
+      </TableView>
+      <ButtonBar layoutX="134.0" layoutY="459.0" prefHeight="40.0" prefWidth="463.0">
+        <buttons>
+          <Button fx:id="btnSave" mnemonicParsing="false" onAction="#creatUser" text="Save" wrapText="true" />
+            <Button fx:id="btnUpdate" layoutX="125.0" layoutY="18.0" mnemonicParsing="false" onAction="#updateUser" text="Update" />
+            <Button fx:id="btnDelete" layoutX="125.0" layoutY="18.0" mnemonicParsing="false" onAction="#deleteUser" text="Delete" />
+            <Button fx:id="btnClear" layoutX="125.0" layoutY="18.0" mnemonicParsing="false" onAction="#clearUser" text="Clear" />
+        </buttons>
+      </ButtonBar>
+      <Label layoutX="235.0" layoutY="32.0" styleClass="title" text="Ejercicio_1 : CRUD" />
+   </children>
+</fx:root>
