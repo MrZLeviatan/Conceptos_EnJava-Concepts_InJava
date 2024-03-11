@@ -1,14 +1,28 @@
+<h1 align="center"
 
 # _Conceptos_EnJava_ / _Concepts_InJava_
 
-## _Introduccion / **Introduction**_
- En este repositorio encontraras los conceptos generales y claves de java. Desde los fundamentos basicos hasta las tecnicas avanzadas, nuestro repositorio esta diseñado para ser tu guia confiable en este aprendizaje y perfeccionamiento en Java.
+</h1>
 
->***In this repository you will find the general concepts and keys of Java. From basic fundamentals to advanced techniques, our repository is designed to be your trusted guide in learning and improving Java.***
+ Este repositorio tiene como objetivo proporcionar una guía completa y práctica para dominar los conceptos fundamentales y las herramientas claves de Java. Ya sea que seas un principiante absoluto o un desarollador experimentado que busca refrescar sus conocimientos, este proyecto esta diseñado para ser tu guia confiable en este viaje al aprendizaje. 
+ 
+>***This repository aims to provide a complete and practical guide to mastering the fundamental concepts and key tools of Java. Whether you are an absolute beginner or an experienced developer looking to refresh your knowledge, this project is designed to be your trusted guide on this journey to learning.***
 
-<p align="center">
-  <img src="https://github.com/MrZLeviatan/Conceptos_EnJava/assets/117557162/c237329b-e26e-421d-b6cc-b9451bd4cf00" />
+<p align="center"
+ 
+  [![Image-General.png](https://i.postimg.cc/tgYgqRfQ/Image-General.png)](https://postimg.cc/SXb4V4kD)
+  
 </p>
+
+
+### Tabla De Contenidos: / Table of Contents:
+---
+
+ - [_Recursividad / Recursion_](./Recursividad)
+ - [Recursividad / Recursion](#recursividad-/-recursion).
+
+
+
 
 ___
 
