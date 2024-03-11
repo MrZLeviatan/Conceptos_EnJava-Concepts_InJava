@@ -10,8 +10,8 @@
 
 <p align="center"
  
-  [![Image-General.png](https://i.postimg.cc/tgYgqRfQ/Image-General.png)](https://postimg.cc/SXb4V4kD)
-  
+[![Image-General.png](https://i.postimg.cc/tgYgqRfQ/Image-General.png)](https://postimg.cc/SXb4V4kD)
+
 </p>
 
 
