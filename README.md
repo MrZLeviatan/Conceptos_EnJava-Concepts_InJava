@@ -18,8 +18,11 @@
 ### Tabla De Contenidos: / Table of Contents:
 ---
 
- - [_Recursividad / Recursion_](./Recursividad)
- - [Recursividad / Recursion](#recursividad-/-recursion).
+ - [Recursividad / Recursion](#recursividad-/-recursion)
+ - [Backtraking](#backtraking)
+ - [Threads](#threads)
+ - [Sockets](#sockets)
+
 
 
 
@@ -101,3 +104,10 @@ communicate with each other, either on the same machine or through a network.
 >- This folder shows the different exercises related to "Sockets".
 >- The use of the "RabbitMq" application as a communication server will be demonstrated.
 >- The use of the JavaFx library is denoted.
+<br>
+</br>
+
+## Authors
+- [@octokatherine](https://www.github.com/octokatherine)
+
+![https://opencollective.com/sous-chefs#backers](https://opencollective.com/sous-chefs/backers.svg?width=600&avatarHeight=40)
