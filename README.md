@@ -12,6 +12,8 @@
  
 [![Image-General.png](https://i.postimg.cc/tgYgqRfQ/Image-General.png)](https://postimg.cc/SXb4V4kD)
 
+<j align="center"> [![Gitter Chat](http://img.shields.io/badge/chat-online-brightgreen.svg)](https://matrix.to/#/#conceptosenjava:matrix.org) </j>
+
 </p>
 
 
@@ -22,8 +24,7 @@
  - [Backtraking](#backtraking)
  - [Threads](#threads)
  - [Sockets](#sockets)
-
-
+ - [Authors](#authors)
 
 
 
@@ -108,6 +109,9 @@ communicate with each other, either on the same machine or through a network.
 </br>
 
 ## Authors
-- [@octokatherine](https://www.github.com/octokatherine)
 
-![https://opencollective.com/sous-chefs#backers](https://opencollective.com/sous-chefs/backers.svg?width=600&avatarHeight=40)
+<a1>
+ 
+ - <H3>  MrZLeviatan: </H3> <a href="https://github.com/MrZLeviatan"><img src="https://img.shields.io/badge/@MrZLeviatan-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.facebook.com/nicolas.cabreraserrano9/"><img src="https://img.shields.io/badge/@Nicolas.A-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/n.cs666/"><img src="https://img.shields.io/badge/@n.cs666-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/Mr_Leviatan6"><img src="https://img.shields.io/badge/@Mr.Leviatan-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://open.spotify.com/user/s7likqvu58tnldicndjp0s0yf"><img src="https://img.shields.io/badge/@Mr.Leviatan-03C75A?style=for-the-badge&logo=spotify&logoColor=FFFFFF" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.reddit.com/user/Mrz_Leviatan666/"><img src="https://img.shields.io/badge/@MrZ.Leviatan666-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.hackerearth.com/@nikis281002"><img src="https://img.shields.io/badge/@Nicolas.C-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://stackoverflow.com/users/22382518/nicolas-cabrera-serrano"><img src="https://img.shields.io/badge/@Nicolas.C-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://dev.to/mrzleviatan"><img src="https://img.shields.io/badge/@MrZLeviatan-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</a1>
