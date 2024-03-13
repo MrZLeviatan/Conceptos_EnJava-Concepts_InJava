@@ -31,7 +31,7 @@
 
 ---
 
-## _Badges_
+## _Badges:_
 
 - <H3> Backend:</H3>
   
