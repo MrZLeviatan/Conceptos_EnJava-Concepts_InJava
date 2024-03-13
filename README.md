@@ -2,7 +2,8 @@
 
  _Conceptos_EnJava_ / _Concepts_InJava_
 
-![version](https://img.shields.io/badge/version-2.0-blue)
+[![version](https://img.shields.io/badge/version-2.0-blue)](https://github.com/MrZLeviatan/Conceptos_EnJava-Concepts_InJava)
+
 </h1>
 
  Este repositorio tiene como objetivo proporcionar una guía completa y práctica para dominar los conceptos fundamentales y las herramientas claves de Java. Ya sea que seas un principiante absoluto o un desarollador experimentado que busca refrescar sus conocimientos, este proyecto esta diseñado para ser tu guia confiable en este viaje al aprendizaje. 
