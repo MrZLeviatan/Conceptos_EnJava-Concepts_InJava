@@ -54,7 +54,7 @@ public class AppFibonacci {
 
     public static void demostrar (int numero, int i){
 
-        if (fibonacci(i) < numero){
+        if (fibonacci(i) <= numero){
             System.out.println(fibonacci(i)+"");
             demostrar(numero, i + 1);
         }

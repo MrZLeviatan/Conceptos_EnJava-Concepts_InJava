@@ -1,5 +1,9 @@
 package MrZLeviatan;
 
+
+/**
+ * ELEMENTO PARA INGRESAR A LA MOCHILA.
+ */
 public class Elemento {
 
     private int peso;

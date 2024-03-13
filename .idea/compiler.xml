@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Ejercicio_02" />
+        <module name="Ejercicio_03" />
         <module name="Ejercicio_2" />
         <module name="Ejercicio_1" />
         <module name="Ejemplo_UDP" />
@@ -26,7 +27,6 @@
       <module name="CRUD-Persistencia" target="17" />
       <module name="Ejercicio_01 (1)" target="17" />
       <module name="Ejercicio_01 (2)" target="17" />
-      <module name="Ejercicio_03" target="17" />
       <module name="EJercicio_1-02" target="17" />
     </bytecodeTargetLevel>
   </component>

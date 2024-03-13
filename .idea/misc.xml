@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="JavadocGenerationManager">
@@ -36,6 +35,7 @@
         <option value="$PROJECT_DIR$/Sockets/Ejemplos_RabbitMq/Ejemplo_01/pom.xml" />
         <option value="$PROJECT_DIR$/Threads/EJercicio_1-02/pom.xml" />
         <option value="$PROJECT_DIR$/Threads/EJercicio_1-02-TxT/pom.xml" />
+        <option value="$PROJECT_DIR$/Persistencia/Ejercicio_03/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

@@ -11,6 +11,8 @@ public class AppMochila {
                 new Elemento(4, 18),
                 new Elemento(4, 30),
                 new Elemento(10, 1),
+                new Elemento(3,2),
+                new Elemento(3, 10)
         };
 
         Mochila base = new Mochila(elementos.length, 15);
@@ -35,6 +37,10 @@ public class AppMochila {
         }
     }
 
+
+    /**
+     * metodo para llenar la mochila optima
+     */
     public static Mochila comprobrar(Elemento[] elementoMoch, int i, Mochila opt) {
 
         if (i == elementoMoch.length) {
@@ -48,6 +54,9 @@ public class AppMochila {
             return comprobrar(elementoMoch, i + 1, opt);
         }
     }
+
+
+
 
     public static void recorrer(Mochila base, Elemento[] elementos, Mochila opt, boolean lleno, int i) {
 

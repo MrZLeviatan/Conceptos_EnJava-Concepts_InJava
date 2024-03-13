@@ -2,7 +2,9 @@ package MrZLeviatan;
 
 public class Mochila {
 
-
+    /**
+     * array de elementos que tiene la mochila.
+     */
     private Elemento [] elementos;
     private int peso, beneficios, pesoMaximo;
 
@@ -46,6 +48,9 @@ public class Mochila {
     }
 
 
+    /**
+     * metodo recursivo para agregar elemntos al array de la mochila.
+     */
     public void anadirElemento (Elemento e, int i) {
 
         if (i != elementos.length) {
@@ -59,6 +64,9 @@ public class Mochila {
         }
     }
 
+    /**
+     * metodo para limpiar los datos.
+     */
     public void clear (int i){
         this.peso=0;
         this.beneficios=0;
@@ -67,6 +75,10 @@ public class Mochila {
             clear(i+1);
         }
     }
+
+    /**
+     * metodo para eliminar elementos.
+     */
 
     public void eliminarElemento (Elemento e, int i){
 
@@ -81,6 +93,10 @@ public class Mochila {
             }
         }
     }
+
+    /**
+     * metodo para saber si existe el elemento en la mochila
+     */
 
     public boolean existeElemento (Elemento e, int i){
 

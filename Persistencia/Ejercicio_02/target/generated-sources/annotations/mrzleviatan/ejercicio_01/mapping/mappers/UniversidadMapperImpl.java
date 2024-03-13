@@ -8,8 +8,8 @@ import mrzleviatan.ejercicio_01.model.Estudiante;
 /*
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2023-11-02T20:26:57-0500",
-    comments = "version: 1.5.5.Final, compiler: javac, environment: Java 17.0.8 (Oracle Corporation)"
+    date = "2024-02-16T20:41:38-0500",
+    comments = "version: 1.5.5.Final, compiler: javac, environment: Java 17.0.9 (Oracle Corporation)"
 )
 */
 public class UniversidadMapperImpl implements UniversidadMapper {

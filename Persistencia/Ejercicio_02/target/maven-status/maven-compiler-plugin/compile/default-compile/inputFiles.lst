@@ -1,19 +1,19 @@
-C:\Users\MrZ Leviatan\Documents\Programacion\Trabajos y Talleres\Conceptos_EnJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\controller\VisualizacionPropiedades.java
-C:\Users\MrZ Leviatan\Documents\Programacion\Trabajos y Talleres\Conceptos_EnJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\model\service\IUniversidad.java
-C:\Users\MrZ Leviatan\Documents\Programacion\Trabajos y Talleres\Conceptos_EnJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\utils\PropertiesUtils.java
-C:\Users\MrZ Leviatan\Documents\Programacion\Trabajos y Talleres\Conceptos_EnJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\exceptions\EstudianteException.java
-C:\Users\MrZ Leviatan\Documents\Programacion\Trabajos y Talleres\Conceptos_EnJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\utils\ArchivoUtil.java
-C:\Users\MrZ Leviatan\Documents\Programacion\Trabajos y Talleres\Conceptos_EnJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\mapping\dto\EstudianteDto.java
-C:\Users\MrZ Leviatan\Documents\Programacion\Trabajos y Talleres\Conceptos_EnJava\Persistencia\Ejercicio_02\src\main\java\module-info.java
-C:\Users\MrZ Leviatan\Documents\Programacion\Trabajos y Talleres\Conceptos_EnJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\App02.java
-C:\Users\MrZ Leviatan\Documents\Programacion\Trabajos y Talleres\Conceptos_EnJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\viewController\UniversidadController.java
-C:\Users\MrZ Leviatan\Documents\Programacion\Trabajos y Talleres\Conceptos_EnJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\utils\UniversidadUtils.java
-C:\Users\MrZ Leviatan\Documents\Programacion\Trabajos y Talleres\Conceptos_EnJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\controller\EstudianteController.java
-C:\Users\MrZ Leviatan\Documents\Programacion\Trabajos y Talleres\Conceptos_EnJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\controller\service\IModelFactoryService.java
-C:\Users\MrZ Leviatan\Documents\Programacion\Trabajos y Talleres\Conceptos_EnJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\utils\Persistencia.java
-C:\Users\MrZ Leviatan\Documents\Programacion\Trabajos y Talleres\Conceptos_EnJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\mapping\mappers\UniversidadMapper.java
-C:\Users\MrZ Leviatan\Documents\Programacion\Trabajos y Talleres\Conceptos_EnJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\model\Estudiante.java
-C:\Users\MrZ Leviatan\Documents\Programacion\Trabajos y Talleres\Conceptos_EnJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\model\Universidad.java
-C:\Users\MrZ Leviatan\Documents\Programacion\Trabajos y Talleres\Conceptos_EnJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\controller\ModelFactoryController.java
-C:\Users\MrZ Leviatan\Documents\Programacion\Trabajos y Talleres\Conceptos_EnJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\controller\service\IEstudianteControllerService.java
-C:\Users\MrZ Leviatan\Documents\Programacion\Trabajos y Talleres\Conceptos_EnJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\utils\TextFormatterUtil.java
+C:\Users\NIKO\Documents\Programacion\Conceptos_Generales\Conceptos_EnJava-Concepts_InJava\Persistencia\Ejercicio_02\src\main\java\module-info.java
+C:\Users\NIKO\Documents\Programacion\Conceptos_Generales\Conceptos_EnJava-Concepts_InJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\controller\service\IEstudianteControllerService.java
+C:\Users\NIKO\Documents\Programacion\Conceptos_Generales\Conceptos_EnJava-Concepts_InJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\exceptions\EstudianteException.java
+C:\Users\NIKO\Documents\Programacion\Conceptos_Generales\Conceptos_EnJava-Concepts_InJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\controller\service\IModelFactoryService.java
+C:\Users\NIKO\Documents\Programacion\Conceptos_Generales\Conceptos_EnJava-Concepts_InJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\utils\ArchivoUtil.java
+C:\Users\NIKO\Documents\Programacion\Conceptos_Generales\Conceptos_EnJava-Concepts_InJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\viewController\UniversidadController.java
+C:\Users\NIKO\Documents\Programacion\Conceptos_Generales\Conceptos_EnJava-Concepts_InJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\model\Estudiante.java
+C:\Users\NIKO\Documents\Programacion\Conceptos_Generales\Conceptos_EnJava-Concepts_InJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\model\Universidad.java
+C:\Users\NIKO\Documents\Programacion\Conceptos_Generales\Conceptos_EnJava-Concepts_InJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\controller\VisualizacionPropiedades.java
+C:\Users\NIKO\Documents\Programacion\Conceptos_Generales\Conceptos_EnJava-Concepts_InJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\utils\PropertiesUtils.java
+C:\Users\NIKO\Documents\Programacion\Conceptos_Generales\Conceptos_EnJava-Concepts_InJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\utils\UniversidadUtils.java
+C:\Users\NIKO\Documents\Programacion\Conceptos_Generales\Conceptos_EnJava-Concepts_InJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\mapping\mappers\UniversidadMapper.java
+C:\Users\NIKO\Documents\Programacion\Conceptos_Generales\Conceptos_EnJava-Concepts_InJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\utils\TextFormatterUtil.java
+C:\Users\NIKO\Documents\Programacion\Conceptos_Generales\Conceptos_EnJava-Concepts_InJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\App02.java
+C:\Users\NIKO\Documents\Programacion\Conceptos_Generales\Conceptos_EnJava-Concepts_InJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\controller\EstudianteController.java
+C:\Users\NIKO\Documents\Programacion\Conceptos_Generales\Conceptos_EnJava-Concepts_InJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\mapping\dto\EstudianteDto.java
+C:\Users\NIKO\Documents\Programacion\Conceptos_Generales\Conceptos_EnJava-Concepts_InJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\utils\Persistencia.java
+C:\Users\NIKO\Documents\Programacion\Conceptos_Generales\Conceptos_EnJava-Concepts_InJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\model\service\IUniversidad.java
+C:\Users\NIKO\Documents\Programacion\Conceptos_Generales\Conceptos_EnJava-Concepts_InJava\Persistencia\Ejercicio_02\src\main\java\mrzleviatan\ejercicio_01\controller\ModelFactoryController.java

@@ -1,32 +1,60 @@
-<h1 align="center"
+<h1 align="center">
 
-# _Conceptos_EnJava_ / _Concepts_InJava_
+ _Conceptos_EnJava_ / _Concepts_InJava_
 
+![version](https://img.shields.io/badge/version-2.0-blue)
 </h1>
 
  Este repositorio tiene como objetivo proporcionar una guía completa y práctica para dominar los conceptos fundamentales y las herramientas claves de Java. Ya sea que seas un principiante absoluto o un desarollador experimentado que busca refrescar sus conocimientos, este proyecto esta diseñado para ser tu guia confiable en este viaje al aprendizaje. 
  
 >***This repository aims to provide a complete and practical guide to mastering the fundamental concepts and key tools of Java. Whether you are an absolute beginner or an experienced developer looking to refresh your knowledge, this project is designed to be your trusted guide on this journey to learning.***
 
-<p align="center"
+<p align="center">
  
 [![Image-General.png](https://i.postimg.cc/tgYgqRfQ/Image-General.png)](https://postimg.cc/SXb4V4kD)
 
-<j align="center"> [![Gitter Chat](http://img.shields.io/badge/chat-online-brightgreen.svg)](https://matrix.to/#/#conceptosenjava:matrix.org) </j>
 
 </p>
 
-
-### Tabla De Contenidos: / Table of Contents:
 ---
 
+
+## _Tabla De Contenidos:_ / _Table of Contents:_
+
+ - [Badges](#badges) 
  - [Recursividad / Recursion](#recursividad-/-recursion)
  - [Backtraking](#backtraking)
  - [Threads](#threads)
  - [Sockets](#sockets)
  - [Authors](#authors)
+ - [Gratitude](#gratitude)
 
+---
 
+## _Badges_
+
+- <H3> Backend:</H3>
+  
+  - [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ](https://www.oracle.com/co/java/technologies/downloads/#java21)
+
+- <H3>  Frontend:</H3>
+
+    - [![Java fx](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)](https://openjfx.io/)
+      [![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
+
+- <H3>  IDEs/ Editors: </H3>
+
+    - [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/es-es/idea/)
+
+- <H3> Database: </H3>
+
+    - [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/es-co/sql-server/sql-server-downloads)
+
+- <H3> Messaging Software: </H3>
+
+    - [![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+
+<br>
 
 ___
 
@@ -46,7 +74,8 @@ small in order to solve them recursively.
 Thus demonstrating what the base and recursive cases are. It also denotes the use of data already burned or data requested by the console.
 
 <br>
-</br>
+
+
 
 ## [_BackTracking_](./Backtracking)
 El BackTracking en java es un enfoque de programación utilizado para encontrar soluciones a
@@ -67,8 +96,9 @@ a valid solution, backtrack to try a different alternative.
 Backtracking: Thus demonstrating which are the most common with programming mechanics
 Backtracking.
 >- The use of famous programming games with their solutions is also noted.
+
 <br>
-</br>
+
 
 ## [_Threads_](./Threads)
 Los Threads en java son subprocesos de ejecución independientes que permiten que un programa
@@ -87,8 +117,9 @@ provides a threading API that allows you to create, control and coordinate multi
 application.
 >- This folder shows the different exercises related to the "Threads".
 >- The use of the JavaFx library is denoted.
+
 <br>
-</br>
+
 
 ## [_Sockets_](./Sockets)
 Los Sockets en Java son API de la programacion que permiten la comunicacion entre procesos
@@ -105,13 +136,33 @@ communicate with each other, either on the same machine or through a network.
 >- This folder shows the different exercises related to "Sockets".
 >- The use of the "RabbitMq" application as a communication server will be demonstrated.
 >- The use of the JavaFx library is denoted.
+
 <br>
-</br>
 
-## Authors
 
-<a1>
- 
- - <H3>  MrZLeviatan: </H3> <a href="https://github.com/MrZLeviatan"><img src="https://img.shields.io/badge/@MrZLeviatan-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.facebook.com/nicolas.cabreraserrano9/"><img src="https://img.shields.io/badge/@Nicolas.A-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/n.cs666/"><img src="https://img.shields.io/badge/@n.cs666-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/Mr_Leviatan6"><img src="https://img.shields.io/badge/@Mr.Leviatan-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://open.spotify.com/user/s7likqvu58tnldicndjp0s0yf"><img src="https://img.shields.io/badge/@Mr.Leviatan-03C75A?style=for-the-badge&logo=spotify&logoColor=FFFFFF" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.reddit.com/user/Mrz_Leviatan666/"><img src="https://img.shields.io/badge/@MrZ.Leviatan666-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.hackerearth.com/@nikis281002"><img src="https://img.shields.io/badge/@Nicolas.C-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://stackoverflow.com/users/22382518/nicolas-cabrera-serrano"><img src="https://img.shields.io/badge/@Nicolas.C-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://dev.to/mrzleviatan"><img src="https://img.shields.io/badge/@MrZLeviatan-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+___
 
-</a1>
+## _Authors:_
+
+
+
+
+|                                                                                                                                 Author                                                                                                                                 |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [@MrZLeviatan](https://github.com/MrZLeviatan) <br>[![117557162.jpg](https://i.postimg.cc/1XdxMhYV/117557162.jpg)](https://github.com/MrZLeviatan) <br> [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/MrZLeviatan) |
+
+
+---
+
+## _Gratitude_
+¡Gracias por visitar nuestro repositorio de ejercicios de Java! Esperamos que encuentres útiles 
+los recursos que hemos compartido. Si tienes alguna pregunta o necesitas más 
+información, no dudes en contactarnos.
+
+
+>Thank you for visiting our Java exercises repository! We hope you find the resources we have shared useful. If you have any questions or need more information, do not hesitate to contact us.
+
+
+- <H4> Contactanos: / Contact Us: </H4>
+
+  - [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/p53cPmgD)
