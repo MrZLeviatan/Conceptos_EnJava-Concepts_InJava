@@ -150,7 +150,7 @@ ___
 
 |                                                                                                                                 Author                                                                                                                                 |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [@MrZLeviatan](https://github.com/MrZLeviatan) <br>[![117557162.jpg](https://i.postimg.cc/1XdxMhYV/117557162.jpg)](https://github.com/MrZLeviatan) <br> [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/MrZLeviatan?preview=true) |
+| [@MrZLeviatan](https://github.com/MrZLeviatan) <br>[![117557162.jpg](https://i.postimg.cc/1XdxMhYV/117557162.jpg)](https://github.com/MrZLeviatan) <br> [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/MrZLeviatan) |
 
 
 ---
