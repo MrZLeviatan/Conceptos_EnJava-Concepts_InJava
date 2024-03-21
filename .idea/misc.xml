@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="JavadocGenerationManager">
@@ -36,10 +37,18 @@
         <option value="$PROJECT_DIR$/Threads/EJercicio_1-02/pom.xml" />
         <option value="$PROJECT_DIR$/Threads/EJercicio_1-02-TxT/pom.xml" />
         <option value="$PROJECT_DIR$/Persistencia/Ejercicio_03/pom.xml" />
+        <option value="$PROJECT_DIR$/Persistencia/MySQL/Ejercicio_01/pom.xml" />
+        <option value="$PROJECT_DIR$/Collections/pom.xml" />
+        <option value="$PROJECT_DIR$/Collections/List/Ejercicios_List/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/Collections/ArrayList/pom.xml" />
+        <option value="$PROJECT_DIR$/Collections/Queue/Ejercicio_01/pom.xml" />
+        <option value="$PROJECT_DIR$/Collections/Queue/PriorityQueue/Ejercicio_01/pom.xml" />
+        <option value="$PROJECT_DIR$/Collections/Queue/PriorityQueue/pom.xml" />
+        <option value="$PROJECT_DIR$/Collections/SequencedCollection/pom.xml" />
         <option value="$PROJECT_DIR$/Hilos/Ejercicio_02/pom.xml" />
         <option value="$PROJECT_DIR$/Persistencia/CRUD-Persistencia/pom.xml" />
         <option value="$PROJECT_DIR$/Persistencia/Colegio-Persistencia/pom.xml" />
@@ -50,7 +59,7 @@
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Set" />
         <module name="Ejercicio_02" />
         <module name="Ejercicio_03" />
         <module name="Ejercicio_2" />
@@ -16,18 +17,28 @@
         <module name="EJercicio_1-02 (2)" />
         <module name="Sockets" />
         <module name="EJercicio_1-02 (1)" />
+        <module name="Ejercicio_01 (1)" />
+        <module name="Ejercicio_01 (2)" />
         <module name="Parcial02_03" />
         <module name="Ejemplo_01" />
-        <module name="Ejercicio_01" />
+        <module name="EjercicioArrayList_02" />
+        <module name="Ejercicio_Iterator" />
         <module name="Ejemplos_RabbitMq" />
+        <module name="Queue" />
+        <module name="EjercicioArrayList_01" />
+        <module name="EjercicioMaps_01" />
+        <module name="EjercicioCollection_01" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Colegio-Persistencia" target="17" />
       <module name="CRUD-Persistencia" target="17" />
-      <module name="Ejercicio_01 (1)" target="17" />
-      <module name="Ejercicio_01 (2)" target="17" />
+      <module name="Ejercicio_01" target="17" />
       <module name="EJercicio_1-02" target="17" />
+      <module name="EjercicioPriorityQueue_01" target="21" />
+      <module name="EjercicioQueue_01" target="21" />
+      <module name="PriorityQueue" target="21" />
+      <module name="SequencedCollection" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>

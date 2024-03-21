@@ -13,7 +13,7 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Text?>
 
-<AnchorPane prefHeight="550.0" prefWidth="750.0" styleClass="form_container" stylesheets="@../CSS/Style.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="mrzleviatan.ejercicio_01.UsuarioController">
+<fx:root prefHeight="550.0" prefWidth="750.0" styleClass="form_container" stylesheets="@../CSS/Style.css" type="AnchorPane" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="mrzleviatan.ejercicio_01.UsuarioController">
    <children>
       <Text fill="#001c2e" layoutX="291.0" layoutY="53.0" smooth="false" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="title" />
       <VBox layoutX="21.0" layoutY="100.0" prefHeight="294.0" prefWidth="286.0" styleClass="form_container">
@@ -40,11 +40,11 @@
       </VBox>
       <TableView fx:id="table" layoutX="323.0" layoutY="112.0" prefHeight="294.0" prefWidth="401.0">
          <columns>
-            <TableColumn prefWidth="75.0" text="ID" />
-            <TableColumn prefWidth="75.0" text="Name" />
-            <TableColumn prefWidth="91.0" text="Last Name" />
-            <TableColumn prefWidth="77.0" text="Phone" />
-            <TableColumn prefWidth="82.0" text="Gender" />
+            <TableColumn fx:id="colid" editable="false" prefWidth="75.0" text="ID" />
+            <TableColumn fx:id="colfName" prefWidth="75.0" text="Name" />
+            <TableColumn fx:id="colLName" prefWidth="91.0" text="Last Name" />
+            <TableColumn fx:id="colPhone" prefWidth="77.0" text="Phone" />
+            <TableColumn fx:id="colGender" prefWidth="82.0" text="Gender" />
          </columns>
       </TableView>
       <ButtonBar layoutX="134.0" layoutY="459.0" prefHeight="40.0" prefWidth="463.0">
@@ -57,4 +57,4 @@
       </ButtonBar>
       <Label layoutX="235.0" layoutY="32.0" styleClass="title" text="Ejercicio_1 : CRUD" />
    </children>
-</AnchorPane>
+</fx:root>

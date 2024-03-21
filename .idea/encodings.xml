@@ -1,6 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Collections/ArrayList/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/ArrayList/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/List/ArrayList/ArrayList_01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/List/ArrayList/ArrayList_01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/List/ArrayList/ArrayList_02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/List/ArrayList/ArrayList_02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/List/ArrayList/Ciclos_Bucles ArrayList/Ejercicio_Iterator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/List/ArrayList/Ciclos_Bucles ArrayList/Ejercicio_Iterator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/List/ArrayList/Ciclos_Bucles ArrayList/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/List/ArrayList/Ciclos_Bucles ArrayList/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/List/ArrayList/Ejercicio_01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/List/ArrayList/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/List/ArrayList/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/List/Ejercicios_List/Ejercicio_01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/List/Ejercicios_List/Ejercicio_01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/List/Ejercicios_List/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/List/Ejercicios_List/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/List/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/List/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/Map/EjercicioMaps_01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/Map/EjercicioMaps_01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/Map/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/Map/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/Queue/Ejercicio_01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/Queue/Ejercicio_01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/Queue/PriorityQueue/Ejercicio_01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/Queue/PriorityQueue/Ejercicio_01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/Queue/PriorityQueue/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/Queue/PriorityQueue/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/Queue/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/Queue/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/SequencedCollection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/SequencedCollection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/Set/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/Set/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Collections/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Hilos/Ejercicio_01/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Hilos/Ejercicio_01/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Persistencia/CRUD-Persistencia/src/main/java" charset="UTF-8" />
@@ -13,6 +50,8 @@
     <file url="file://$PROJECT_DIR$/Persistencia/Ejercicio_02/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Persistencia/Ejercicio_03/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Persistencia/Ejercicio_03/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Persistencia/MySQL/Ejercicio_01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Persistencia/MySQL/Ejercicio_01/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Persistencia/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Persistencia/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Sockets/Ejemplo_RabbitMq/Ejemplo_01/src/main/java" charset="UTF-8" />
