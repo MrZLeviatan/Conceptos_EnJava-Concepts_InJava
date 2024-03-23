@@ -6,14 +6,28 @@ package MrZLeviatan;
  */
 public class Elemento {
 
+
+    /**
+     * CARACTERÍSTICAS DEL OBJETO ELEMENTO.
+     */
     private int peso;
     private int precio;
 
+
+    /**
+     * CONSTRUCTOR DE LA CLASE.
+     * @param peso
+     * @param precio
+     */
     public Elemento(int peso, int precio) {
         this.peso = peso;
         this.precio = precio;
     }
 
+
+    /**
+     * MÉTODOS GET Y SET DE LA CLASE.
+     */
     public int getPeso() {
         return peso;
     }
@@ -30,8 +44,10 @@ public class Elemento {
         this.precio = precio;
     }
 
-    // Equal es para comparar oh saber si un objeto es equivalente a otro
 
+    /**
+     * CREAMOS EL MÉTODO EQUALS PARA COMPARAR CADA OBJETO. IGUALMENTE PODEMOS COMPARAR SI ES EQUIVALENTE A OTRO.
+     */
     @Override
     public boolean equals(Object obj) {
         if (this == obj)
@@ -46,6 +62,10 @@ public class Elemento {
         return true;
     }
 
+
+    /**
+     * CREAMOS EL MÉTODO ToString PARA RETORNAR UNA REPRESENTACIÓN DE CADENA DEL OBJETO EN FORMA DE DECLARACIÓN DE FUNCIÓN.
+     */
     @Override
     public String toString() {
         return "Elemento { "+"peso: "+peso+ ","+" precio: "+precio+ " }";

@@ -1,9 +1,17 @@
 package MrZLeviatan;
 
+
+/**
+ * SE CREA EL EJECUTABLE APP
+ */
 public class AppMochila {
 
     public static void main(String[] args) {
 
+
+        /**
+         * SE CREA UNA LISTA DEL OBJETO "ELEMENTO" Y SE QUEMAN ALGUNOS DE ESTOS.
+         */
         Elemento[] elementos = {
 
                 new Elemento(1, 5),
@@ -15,6 +23,11 @@ public class AppMochila {
                 new Elemento(3, 10)
         };
 
+
+        /**
+         * SE CREAN DOS CLASES DE MOCHILA, SE USARAN PARA COMPARAR Y BUSCAR LA MAS OPTIMA.
+         */
+
         Mochila base = new Mochila(elementos.length, 15);
         Mochila opt = new Mochila(elementos.length, 15);
 
@@ -24,13 +37,17 @@ public class AppMochila {
         System.out.println(opt);
     }
 
+
+    /**
+     * MÉTODO PARA LLENAR LA MOCHILA OPTIMA DESPUÉS DE COMPARAR LOS BENEFICIOS.
+     */
     public static void llenarMochila(Mochila base, Elemento[] elementos, Mochila opt, boolean lleno) {
 
         if (lleno) {
             if (base.getBeneficios() > opt.getBeneficios()) {
                 Elemento[] elementosMochBase = base.getElementos();
                 opt.clear(0);
-                comprobrar(elementosMochBase, 0, opt);
+                comprobar(elementosMochBase, 0, opt);
             }
         }else{
             recorrer(base,elementos,opt,false,0);
@@ -39,31 +56,32 @@ public class AppMochila {
 
 
     /**
-     * metodo para llenar la mochila optima
+     * MÉTODO QUE COMPRUEBA LAS MOCHILAS MAS SUS OPTIMIZACIONES
      */
-    public static Mochila comprobrar(Elemento[] elementoMoch, int i, Mochila opt) {
+    public static Mochila comprobar(Elemento[] elementoMoch, int i, Mochila opt) {
 
         if (i == elementoMoch.length) {
             return opt;
         }
         if (elementoMoch[i] != null) {
-            opt.anadirElemento(elementoMoch[i], 0);
-            comprobrar(elementoMoch, i + 1, opt);
+            opt.agregarElemento(elementoMoch[i], 0);
+            comprobar(elementoMoch, i + 1, opt);
             return opt;
         } else {
-            return comprobrar(elementoMoch, i + 1, opt);
+            return comprobar(elementoMoch, i + 1, opt);
         }
     }
 
 
-
-
+    /**
+     * MÉTODO PARA RECORRER LA MOCHILA Y COMPARAR SUS ELEMENTOS INTERNOS.
+     */
     public static void recorrer(Mochila base, Elemento[] elementos, Mochila opt, boolean lleno, int i) {
 
            if (i != elementos.length) {
                 if (!base.existeElemento(elementos[i], 0)) {
-                    if (base.getPesoMaximo() > base.getPeso() + elementos[i].getPeso()) {
-                        base.anadirElemento(elementos[i], 0);
+                    if (base.getPesoMáximo() > base.getPeso() + elementos[i].getPeso()) {
+                        base.agregarElemento(elementos[i], 0);
                         llenarMochila(base, elementos, opt, false);
                         base.eliminarElemento(elementos[i], 0);
 

@@ -1,29 +1,49 @@
-# _Juego de la mochila_
-Queremos meter elementos en una mochila con un peso maximo; Estos elementos tienen un peso y un beneficio.
+<h1 align="center"> Juego De La Mochila / Backpack Game</h1> 
 
-## _Problematica Backtracking:_
-Obtener la mejor combinacion que más beneficios nos dé y que no soprepase el 
-peso de la mochila
+El problema de la mochila es un problema clásico de optimización en el que se busca maximizar el valor total de los objetos que se pueden colocar en una mochila con capacidad limitada. Cada objeto tiene un peso y un valor, y el objetivo es determinar la combinación de objetos que maximiza el valor total sin exceder la capacidad de la mochila.
+
+> The backpack problem is a classic optimization problem in which we seek to maximize the total value of the objects that can be placed in a backpack with limited capacity. Each item has a weight and value, and the goal is to determine the combination of items that maximizes the total value without exceeding the capacity of the backpack.
+
+
 
 <p align="center">
-  <img src="https://github.com/MrZLeviatan/Conceptos_EnJava/blob/main/Backtracking/JuegoMochila/src/main/resources/images/mochilaJuego.png?raw=true" />
+  <img src="https://i.postimg.cc/dDMtSGNZ/mochila-Juego.png" />
 </p>
 
 
-------
+---
 
-## _Tool_
+## _Tools:_
 
-- Java 17
-- Maven
-- IDE Intellij
 
-# _Classes_
+- <H3> Backend:</H3>
+
+    - [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ](https://www.oracle.com/co/java/technologies/downloads/#java21)
+
+
+- <H3>  IDEs/ Editors: </H3>
+
+    - [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/es-es/idea/) [![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)](https://maven.apache.org/)
+
+
+
+___
+<h2 align="center"> 
+
+_Classes_
+
+</h2>
 
 ## _Class App_
 
-Se crea la clase App donde se queman algunos datos para poder empezar el Backtracking, también se
-crea la funcion para llenar la mochila con los datos ya quemados.
+Se crea el ejecutable "App" donde iran los objetos 'Elementos' quemados para poder realizar el BackTracking con las funciones necesarias.
+> The "App" executable is created where the burned 'Elements' objects will go to be able to perform BackTracking with the necessary functions.
+
+> [!IMPORTANT]
+> Se denota el uso y conocimiento previo de [Java Orientado A Objetos](/Objects).
+> > The use and prior knowledge of [Object-Oriented Java](/Objects) is denoted.
+
+<br>
 
 ```java
 
@@ -96,8 +116,10 @@ public class App {
 ```
 ## _Class Elemento:_
 
-En esta clase generamos el objeto elemento con las propiedades de peso y presio, este mismo 
-elemento seran los que se metan en la mochila
+Creamos la clase Elemento, la cual será nuestro objeto con las propiedades de peso y precio. Estos mismos objetos serán ingresados a la mochila.
+> We create the Element class, which will be our object with the weight and price properties. These same objects will be placed in the backpack.
+
+<br>
 
 ````Java
 
@@ -127,7 +149,6 @@ public class Elemento {
         this.precio = precio;
     }
 
-    // Equal es para comparar oh saber si un objeto es equivalente a otro
 
     @Override
     public boolean equals(Object obj) {
@@ -152,9 +173,10 @@ public class Elemento {
 
 ## _Class Mochila:_
 
-Creamos la clase de objeto para la Mochila la cual tiene por propiedades su capacidad maxima de peso.
-También se crea los diferentes arquetivos y metodos para completar el Backtracking de este ejercicio.
+Se crea la clase Mochila con sus propiedades y lista de 'Elementos' los cuales se compararan para buscar el beneficio óptimo sin pasar el pesoMáximo.
+> The Backpack class is created with its properties and list of 'Elements' which will be compared to find the optimal benefit without exceeding the Maximum weight.
 
+<br>
 
 ```java
 
