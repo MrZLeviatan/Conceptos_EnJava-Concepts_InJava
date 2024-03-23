@@ -38,6 +38,7 @@ _Classes_
 
 Se crea el ejecutable "App" donde iran los objetos 'Elementos' quemados para poder realizar el BackTracking con las funciones necesarias.
 > The "App" executable is created where the burned 'Elements' objects will go to be able to perform BackTracking with the necessary functions.
+<br>
 
 > [!IMPORTANT]
 > Se denota el uso y conocimiento previo de [Java Orientado A Objetos](/Objects).
