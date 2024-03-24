@@ -1,4 +1,4 @@
-package MrZLeviatan;
+package LaberintoOnlySolution;
 
 import java.util.ArrayList;
 import java.util.List;
