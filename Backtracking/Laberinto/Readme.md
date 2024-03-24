@@ -41,7 +41,7 @@ Un código en Java que utiliza backtracking para resolver laberintos se centra e
 > Java code that uses backtracking to solve mazes focuses on finding a single viable path from a start point to a destination point within an array that represents the maze.
 
 
-
+<br>
 
 ## [_Class AppCthulhu:_](./src/main/java/LaberintoVariousSolution)
 

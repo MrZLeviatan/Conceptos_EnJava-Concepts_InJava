@@ -82,7 +82,7 @@ Este código en Java es un ejemplo de cómo resolver diversamente un laberinto u
 
 > [!IMPORTANT]
 > Se denota el uso y conocimiento previo de [Recursividad](/Recursividad).
-> > The use and prior knowledge of [Recursion](/Recursion) is denoted.
+> > The use and prior knowledge of [Recursion](/Recursividad) is denoted.
 
 <br>
 
