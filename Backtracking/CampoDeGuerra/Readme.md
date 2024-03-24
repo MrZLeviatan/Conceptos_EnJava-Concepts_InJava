@@ -65,8 +65,8 @@ _Classes_
 <br>
 
 > [!IMPORTANT]
-> Se denota el uso y conocimiento previo de [Java Orientado A Objetos](/Objects).
-> > The use and prior knowledge of [Object-Oriented Java](/Objects) is denoted.
+> Se denota el uso y conocimiento previo de [Recursividad](/Recursividad).
+> > The use and prior knowledge of [Recursion](/Recursividad) is denoted.
 
 <br>
 
