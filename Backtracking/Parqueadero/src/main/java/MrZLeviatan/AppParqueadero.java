@@ -1,7 +1,13 @@
 package MrZLeviatan;
 
+/**
+ * SE CREA LA CLASE DEL PARQUEADERO.
+ */
 public class AppParqueadero {
 
+    /**
+     * MATRIZ DE STRING REFERENCIANDO AL PARQUEADERO.
+     */
     public static String[][] parqueadero= {
 
             {"L"," ","L","C","R1","L"," "},
@@ -20,32 +26,48 @@ public class AppParqueadero {
 
     };
 
+
+    /**
+     * MÉTODO PARA VOLVER EJECUTABLE LA CLASE.
+     */
     public static void main(String[] args) {
         System.out.println("""
        
                         -- PARQUEADERO LA CHINGADA  --    
                 """);
-        AppParqueadero m= new AppParqueadero();
+        AppParqueadero m= new AppParqueadero();        //  Se inicializa la cárcel.
         m.resuelve(11,0);
         imprimir(0,0);
         System.out.println("FIN DEL PROGRAMA");
     }
 
+
+    /**
+     * MÉTODO QUE INICIA LA EXPLORACIÓN DE LA CÁRCEL.
+     */
     public void resuelve(int x, int y){
         movimiento(x, y);
         parqueadero[x][y]="S";
 
     }
 
+
+    /**
+     * VERIFICA LOS PASOS.
+     */
     private boolean esPasoValido(int x, int y) {
 
-        if(x >= 0 && x <= parqueadero.length-1 && y >= 0 && y<= parqueadero[x].length-1){ //PARA QUE NO SE DESBORDE DE LA MATRIZ
+        if(x >= 0 && x <= parqueadero.length-1 && y >= 0 && y<= parqueadero[x].length-1){   //  PARA QUE NO SE DESBORDE DE LA MATRIZ
             return true;
         }else{
             return false;
         }
     }
 
+
+    /**
+     * MÉTODO QUE INICIA LOS MOVIMIENTOS.
+     */
     public boolean movimiento (int x, int y){
         if(!esPasoValido(x, y)){    //PARA QUE NO SE DESBORDE DE LA MATRIZ
             return false;
@@ -79,17 +101,21 @@ public class AppParqueadero {
 
         boolean result;
 
-        result= movimiento(x, y+1); //MOVIMIENTO DERECHA
-        result= movimiento(x+1, y); //MOVIMIENTO ARRIBA
-        result= movimiento(x-1, y); //MOVIMIENTO ABAJO
-        result= movimiento(x, y-1); //MOVIMIENTO IZQUIERDA
+        result= movimiento(x, y+1); //  MOVIMIENTO DERECHA
+        result= movimiento(x+1, y); //  MOVIMIENTO ARRIBA
+        result= movimiento(x-1, y); //  MOVIMIENTO ABAJO
+        result= movimiento(x, y-1); //  MOVIMIENTO IZQUIERDA
 
         parqueadero[x][y]=" ";  //SE BORRA EL CAMINO DONDE SE PASO
         return false;
 
     }
 
-    public static void imprimir(int i, int j) {  //METODO IMPORTANTE PARA IMPRIMIR LAS SOLUCIONES
+
+    /**
+     * MÉTODO PARA IMPRIMIR LAS SOLUCIONE RECURSIVAMENTE.
+     */
+    public static void imprimir(int i, int j) {
 
         if(parqueadero.length-1==i){
             if(parqueadero[0].length-1==j){

@@ -77,33 +77,33 @@ El programa busca todos los 'P' (presos) en la cárcel desde un punto de inicio 
         >   - 'X' which represents a barrier that cannot be crossed.
         >   - 'C' indicating the starting point of the search.
 
-       -  <H3> Métodos / Methods: </H3>
+   -  <H3> Métodos / Methods: </H3>
 
-           -  <H4> Main: </H4> 
-                Se crea una instancia de la cárcel, se inicializa los valores necesarios y se llaman a los otros métodos.
+      -  <H4> Main: </H4> 
+         Se crea una instancia de la cárcel, se inicializa los valores necesarios y se llaman a los otros métodos.
               
-                > The jail is instantiated, the necessary values are initialized, and the other methods are called.
+         > The jail is instantiated, the necessary values are initialized, and the other methods are called.
 
-          - <H4> Resuelve: </H4>
-                 Método que inicia la exploración desde una posición específica. Marca el camino recorrido para evitar repeticiones.
+      - <H4> Resuelve: </H4>
+        Método que inicia la exploración desde una posición específica. Marca el camino recorrido para evitar repeticiones.
                 
-                > Method that starts scanning from a specific position. Mark the path taken to avoid repetitions.
+         > Method that starts scanning from a specific position. Mark the path taken to avoid repetitions.
 
-          - <H4> Movimiento: </H4>
-                  Intenta moverse en todas las direcciones desde la posición actual. Si encuentra un preso ('P'), incrementa el contador ' presosEncontrados ' y marca la posición como visitada ('V'). No puede atravesar muros ('X') ni volver sobre caminos ya marcados.
+      - <H4> Movimiento: </H4>
+        Intenta moverse en todas las direcciones desde la posición actual. Si encuentra un preso ('P'), incrementa el contador ' presosEncontrados ' y marca la posición como visitada ('V'). No puede atravesar muros ('X') ni volver sobre caminos ya marcados.
                 
-                > Try to move in all directions from the current position. If it finds a prisoner ('P'), it increments 
+         > Try to move in all directions from the current position. If it finds a prisoner ('P'), it increments 
                     the ' presosEncontrados ' counter and marks the position as visited ('V'). It cannot go through walls ('X') or retrace already marked paths.
 
-          - <H4> EsPasoValido: </H4>
-                Verifica si la posición actual está dentro de los límites de la matriz y no ha sido visitada previamente o bloqueada.
+      - <H4> EsPasoValido: </H4>
+        Verifica si la posición actual está dentro de los límites de la matriz y no ha sido visitada previamente o bloqueada.
     
-                > Checks if the current position is within the boundaries of the array and has not been previously visited or locked.
+         > Checks if the current position is within the boundaries of the array and has not been previously visited or locked.
 
-          - <H4> Imprimir: </H4> 
-                 Imprime la matriz actual, mostrando el estado actual de la cárcel con los caminos explorados y los presos encontrados.
+      - <H4> Imprimir: </H4> 
+         Imprime la matriz actual, mostrando el estado actual de la cárcel con los caminos explorados y los presos encontrados.
     
-                > Prints the current matrix, showing the current state of the jail with paths explored and prisoners found.
+         > Prints the current matrix, showing the current state of the jail with paths explored and prisoners found.
 
 
 <br>
