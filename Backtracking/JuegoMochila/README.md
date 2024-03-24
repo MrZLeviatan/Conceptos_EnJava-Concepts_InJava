@@ -28,16 +28,17 @@ El problema de la mochila es un problema clásico de optimización en el que se 
 
 
 ___
-<h2 align="center"> 
+<H1 align="center"> 
 
 _Classes_
 
-</h2>
+</H1>
 
 ## _Class App_
 
 Se crea el ejecutable "App" donde iran los objetos 'Elementos' quemados para poder realizar el BackTracking con las funciones necesarias.
 > The "App" executable is created where the burned 'Elements' objects will go to be able to perform BackTracking with the necessary functions.
+
 <br>
 
 > [!IMPORTANT]
