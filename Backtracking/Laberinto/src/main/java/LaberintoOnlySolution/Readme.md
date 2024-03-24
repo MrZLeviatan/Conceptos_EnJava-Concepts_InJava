@@ -84,7 +84,7 @@ En esta clase, se detallan los pasos y métodos del algoritmo Backtracking, util
 
 > [!IMPORTANT]
 > Se denota el uso y conocimiento previo de [Recursividad](/Recursividad).
-> > The use and prior knowledge of [Recursion](/Recursion) is denoted.
+> > The use and prior knowledge of [Recursion](/Recursividad) is denoted.
 
 <br>
 
