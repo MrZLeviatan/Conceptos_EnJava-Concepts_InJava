@@ -35,7 +35,7 @@ _Classes_
 
 </H1>
 
-## [_Class AppLeviatan:_](/LaberintoOnlySolution)
+## [_Class AppLeviatan:_](./src/main/java/LaberintoOnlySolution)
 
 Un código en Java que utiliza backtracking para resolver laberintos se centra en encontrar un único camino viable de un punto de inicio a un punto de destino dentro de una matriz que representa el laberinto.
 > Java code that uses backtracking to solve mazes focuses on finding a single viable path from a start point to a destination point within an array that represents the maze.
@@ -43,7 +43,7 @@ Un código en Java que utiliza backtracking para resolver laberintos se centra e
 
 
 
-## [_Class AppCthulhu:_](/LaberintoVariousSolution)
+## [_Class AppCthulhu:_](./src/main/java/LaberintoVariousSolution)
 
 Un código en Java que utiliza backtracking para resolver laberintos se centra en encontrar los varios caminos válidos de un punto de inicio a un punto de destino dentro de una matriz que representa el laberinto.
 > Java code that uses backtracking to solve mazes focuses on finding the various valid paths from a start point to a destination point within an array that represents the maze.
