@@ -57,21 +57,29 @@ peso de una mochila. Se denota la creación de clases y métodos recursivos.
 >The backpack game is based on obtaining the best combination of elements that gives us the most benefits and that does not exceed the
 weight of a backpack. It denotes the creation of recursive classes and methods.
 
+<br>
 
 ## [_Juego De Los Laberintos / Maze Games:_](./Laberinto)
-Queremos hallar la solución o posibles soluciones de un laberinto hecho por matrices utilizando los métodos recursivos y de Backtracking.
->We want to find the solution or possible solutions of a maze made of matrices using recursive and Backtracking methods.
+Uno de los problemas más comunes en los que se aplica el algoritmo de Backtracking es en la resolución de laberintos, donde se busca encontrar un camino desde un punto inicial hasta uno final, considerando las restricciones del laberinto y evitando los caminos que conduzcan a soluciones inválidas o cíclicas
+>One of the most common problems in which the algorithm is applied Backtracking is in the resolution of mazes, where one seeks to find a path from a starting point to an ending point, considering the constraints of the maze and avoiding paths that lead to invalid or invalid solutions. cyclical.
+
+<br>
 
 ## [_Campo De Guerra / Battlefield:_](./CampoDeGuerra)
-Recorrer un campo de guerra hecho por matriz, donde se encontrará aliados y enemigos de diferentes tipos; La idea es contar cada aliado encontrado y eliminar a los enemigos para subir un contador.
->Tour a war field made by matrix, where you will find allies and enemies of different types; The idea is to count each ally found and eliminate enemies to increase a counter.
+Recorrer un campo de guerra hecho por matriz, el objetivo del juego es moverte por el campo de batalla y eliminar a los enemigos (representados por "E1" y "E2"), mientras que también puedes encontrar aliados (representados por "A") y otros elementos en el campo.
+>Going around a matrix-made war field, the objective of the game is to move around the battlefield and eliminate enemies (represented by "E1" and "E2"), while you can also find allies (represented by "A") and other elements in the field.
 
-___
+<br>
+
+---
+
 # _Problemáticas: / Problematic:_
 
 ## [_Recorrido Cárcel / Jail Tour:_](./Carcel)
 Recorrer una cárcel hecha por matriz donde se hallarán presos; La idea es contar los presos y saber cuantos faltan dentro de la cárcel.
 > Tour a prison made by matrix where prisoners will be found; The idea is to count the prisoners and know how many are missing inside the jail.
+
+<br>
 
 ## [_Parqueadero / Parking:_](./Parqueadero)
 Desarrolle una aplicación que permita parquear los 2 carros en los respectivos espacios reservados Una vez realice el parqueo de un carro en R1 o R2 colocar en dicha posición el carro //
