@@ -86,9 +86,15 @@ of interest.
 <br>
 
 ## [_Parqueadero / Parking:_](./Parqueadero)
-Desarrolle una aplicación que permita parquear los 2 carros en los respectivos espacios reservados Una vez realice el parqueo de un carro en R1 o R2 colocar en dicha posición el carro //
+Desarrolle una aplicación que permita parquear los 2 carros en los respectivos espacios reservados Una vez realice el parqueo de un carro en R1 o R2 colocar en dicha posición el carro.
+ >Develop an application that allows you to park the 2 cars in the respective reserved spaces. Once you park a car in R1 or R2, place the car in that position.
+ 
 
-Tener en cuenta que si R1 y R2 tiene algún carro suyo parqueado ya no será un punto disponible. Al seguir con el siguiente carro limpiar la ruta previa que realizó para parquear el carro El inicio del parqueo de los carros inicia donde dice Entrada Tener presente que no se puede salir del parqueadero
- >Develop an application that allows you to park the 2 cars in the respective reserved spaces. Once you park a car in R1 or R2, place the car in that position //
- >
- > Keep in mind that if R1 and R2 have any of their cars parked, it will no longer be an available point. When continuing with the next car, clean the previous route you took to park the car. The beginning of parking the cars begins where it says Entrance. Keep in mind that you cannot leave the parking lot.
+---
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://i.postimg.cc/Sx8T38Nb/286532033-407e9e72-be8d-438c-9429-c2e147eee0bd.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/CL9rcJ04/286531772-5939be39-6c32-4142-af58-ea5083ac4d1b.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://i.postimg.cc/CL9rcJ04/286531772-5939be39-6c32-4142-af58-ea5083ac4d1b.png">
+</picture>
+</p>
