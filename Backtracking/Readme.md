@@ -76,8 +76,12 @@ Recorrer un campo de guerra hecho por matriz, el objetivo del juego es moverte p
 # _Problemáticas: / Problematic:_
 
 ## [_Recorrido Cárcel / Jail Tour:_](./Carcel)
-Recorrer una cárcel hecha por matriz donde se hallarán presos; La idea es contar los presos y saber cuantos faltan dentro de la cárcel.
-> Tour a prison made by matrix where prisoners will be found; The idea is to count the prisoners and know how many are missing inside the jail.
+Representa una simulación básica de búsqueda dentro de una cárcel, donde se buscan presos ('P') en una matriz 
+que representa la cárcel. Utiliza una técnica de exploración recursiva para moverse por la matriz e identificar
+los elementos de interés.
+> It represents a basic search simulation within a prison, where prisoners ('P') are searched in a matrix that 
+represents the prison. It uses a recursive scanning technique to move through the array and identify elements 
+of interest.
 
 <br>
 
