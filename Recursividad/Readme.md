@@ -131,6 +131,8 @@ Dada una matriz de String de 4 x 5 conformada por números, sumar los dígitos d
 En este ejercicio se pide hallar en una matriz de Personas las personas que tengan número primo oh perfecto como edad utilizando los métodos recursivos.
 >In this exercise you are asked to find in a matrix of People the people who have a prime number oh perfect as age using recursive methods.
 
+<br>
+
 ____
 
 <p align="center">
