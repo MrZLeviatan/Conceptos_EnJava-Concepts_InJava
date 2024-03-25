@@ -1,4 +1,4 @@
-<h1 align="center">     BackTracking  </h1>
+<h1 align="center">  BackTracking  </h1>
 
 El BackTracking en java es un enfoque de programación utilizado para encontrar soluciones a
 problemas que implican la exploración sistemática de múltiples opciones. Este enfoque se
@@ -24,9 +24,8 @@ ___
 ## _Tabla De Contenidos:_ / _Table of Contents:_
 
  - [Badges](#badges)
- - [Juegos Comunes](#juegos-comunes)
- - [Problemática](#problematicas-backtracking)
-
+ - [Juegos Comunes / Common Games](#juegos-comunes)
+ - [Problemática / Problematic](#problematicas-backtracking)
 
 
 ___
