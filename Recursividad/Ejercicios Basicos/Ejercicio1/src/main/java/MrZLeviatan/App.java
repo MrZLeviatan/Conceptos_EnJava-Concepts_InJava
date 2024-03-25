@@ -29,7 +29,9 @@ public class App {
     }
 
 
-
+    /**
+     * MÉTODO EL CUAL OBTIENE POR CONSOLA LOS DATOS REQUERIDOS.
+     */
     public static void obtenerDatos () {
 
         Scanner sc = new Scanner(System.in);
