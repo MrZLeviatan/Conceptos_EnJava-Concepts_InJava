@@ -1,4 +1,4 @@
-<h1 align="center">  Laberintos </h1>
+<h1 align="center">  Laberintos / Mazes </h1>
 Uno de los problemas más comunes en los que se aplica el algoritmo de 
 Backtracking es en la resolución de laberintos, donde se busca encontrar 
 un camino desde un punto inicial hasta uno final, considerando las restricciones 
