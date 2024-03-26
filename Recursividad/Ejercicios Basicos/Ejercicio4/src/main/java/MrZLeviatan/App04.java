@@ -4,6 +4,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class App04 {
+
         /*
          CASO BASE:
              -El módulo (%) del número en 10, es el último dígito a sumar
@@ -14,6 +15,7 @@ public class App04 {
             obtenerDatos();
 
         }
+
 
         /*
          CASO RECURSIVO:

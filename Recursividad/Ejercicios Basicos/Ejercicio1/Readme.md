@@ -82,6 +82,7 @@ Este código en Java realiza un ejercicio simple para contar la cantidad de díg
 > Se denota el uso de <strong> Excepciones </strong>. Verse en la carpeta de [Excepciones](/../main/Exception).
 >>  The use of <strong>Exceptions </strong> is denoted. See the [Exceptions](/../main/Exceptio) exercises.
 
+<br>
 
 ```java
 public Class App {
