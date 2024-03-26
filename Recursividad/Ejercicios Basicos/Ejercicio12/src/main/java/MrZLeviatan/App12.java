@@ -5,72 +5,51 @@ import java.util.Scanner;
 
 public class App12 {
 
-    public static void main(String[] args) {
 
+    /**
+     * CONVIERTE LA CLASE EN UN EJECUTABLE. SE LLAMA EL MÉTODO solicitarNumero.
+     */
+    public static void main(String[] args) {
 
         System.out.println(" --EJERCICIO 12-- ");
 
-        int base = obtenerBase();
-        int potencia = obtenerPotencia();
+        int base = solicitarNumero("Digite la base: ");
+        int potencia = solicitarNumero("Digite la potencia: ");
 
         System.out.printf(" El numero %d potenciado en %d es: "
                 + calcular(base,potencia),base,potencia);
 
         }
 
-    public static int calcular (int base, int potencia){
-        int total;
-        if (base == 0){
-            if (potencia ==0) {
-                total = 1;
-            }else {
-                total = 0;
-            }
-        }else{
 
-            if (potencia == 0){
-                total= 1;
-            }else{
-
-                if( potencia != 1){
-                    total= base* calcular(base,potencia-1);
-                }else{
-                    total =base;
-                }
-            }
-        }
-        return total;
+    /**
+     * MÉTODO PARA CALCULAR LA BASE Y POTENCIA.
+     */
+    public static int calcular(int base, int potencia) {
+        // Caso base: cualquier número a la potencia de 0 es 1.
+        if (potencia == 0) return 1;
+        // Caso base: 0 elevado a cualquier potencia positiva es 0.
+        if (base == 0) return 0;
+        // Paso recursivo.
+        return base * calcular(base, potencia - 1);
     }
 
-    public static int obtenerBase () {
 
+    /**
+     * MÉTODO PARA SOLICITAR LOS NÚMEROS DESDE EL ESCÁNER.
+     */
+    public static int solicitarNumero(String mensaje) {
         Scanner sc = new Scanner(System.in);
         int numero;
-        System.out.println(" Digite un numero Por favor: ");
+        System.out.println(mensaje);
 
-        try {
-            numero = sc.nextInt();
-            return numero;
-
-        } catch (InputMismatchException e) {
-            System.out.println("Error: " + "El valor tecleado debe ser un entero");
-            return obtenerBase();
-        }
-    }
-
-    public static int obtenerPotencia () {
-
-        Scanner sc = new Scanner(System.in);
-        int numero;
-        System.out.println(" Digite la potencia: ");
-
-        try {
-            numero = sc.nextInt();
-            return numero;
-
-        } catch (InputMismatchException e) {
-            System.out.println("Error: " + "El valor tecleado debe ser un entero");
-            return obtenerPotencia();
-        }
+            try {
+                numero = sc.nextInt();
+                return numero;
+            } catch (InputMismatchException e) {
+                System.out.println("Error: El valor tecleado debe ser un entero");
+                sc.next();                              // Limpia el buffer del scanner para evitar un bucle infinito.
+                return solicitarNumero(mensaje);        // Llamada Recursiva.
+            }
     }
 }
