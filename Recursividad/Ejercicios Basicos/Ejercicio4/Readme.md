@@ -30,7 +30,7 @@ _Classes_
 </H1>
 
 
-# _App04_
+## _App04_
 Este código en Java es una simple aplicación que suma las cifras de un número entero proporcionado por el usuario.
 >This Java code is a simple application that adds the digits of an integer provided by the user.
 
