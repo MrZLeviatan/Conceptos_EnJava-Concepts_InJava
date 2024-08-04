@@ -6,9 +6,14 @@
 
 </h1>
 
- Este repositorio tiene como objetivo proporcionar una guía completa y práctica para dominar los conceptos fundamentales y las herramientas claves de Java. Ya sea que seas un principiante absoluto o un desarollador experimentado que busca refrescar sus conocimientos, este proyecto esta diseñado para ser tu guia confiable en este viaje al aprendizaje. 
+This repository aims to provide a complete and practical guide to mastering the fundamental concepts and key 
+tools of Java. Whether you are an absolute beginner or an experienced developer looking to refresh your 
+knowledge, this project is designed to be your trusted guide on this journey to learning.
  
->***This repository aims to provide a complete and practical guide to mastering the fundamental concepts and key tools of Java. Whether you are an absolute beginner or an experienced developer looking to refresh your knowledge, this project is designed to be your trusted guide on this journey to learning.***
+>***Este repositorio tiene como objetivo proporcionar una guía completa y práctica para dominar los conceptos 
+fundamentales y las herramientas claves de Java. Ya sea que seas un principiante absoluto o un desarollador 
+experimentado que busca refrescar sus conocimientos, este proyecto esta diseñado para ser tu guia confiable en 
+este viaje al aprendizaje.***
 
 <p align="center">
  
@@ -60,19 +65,20 @@
 ___
 
 ## [_Recursividad / Recursion_](./Recursividad)
-La recursividad en java es una tecnica de programación en la que un metodo se llama a sí 
-mismo para resolver un problema. Esto se logra dividiendo un problema en subproblemas más 
-pequeños con el fin de resolverlos recursivamente.
-
-- En esta carpeta se muestran distintos ejercicios y ejemplos con casos de recursividad; 
-Demostrando asi cuáles son los casos base y recursivos. Se denota también el uso de datos ya quemados oh datos pedidos por consola.
-
-
->Recursion in Java is a programming technique in which a method calls itself
+Recursion in Java is a programming technique in which a method calls itself
 himself to solve a problem. This is achieved by dividing a problem into smaller subproblems.
 small in order to solve them recursively.
-> - This folder shows different exercises and examples with cases of recursion;
-Thus demonstrating what the base and recursive cases are. It also denotes the use of data already burned or data requested by the console.
+
+  - This folder shows different exercises and examples with cases of recursion;
+    Thus demonstrating what the base and recursive cases are. It also denotes the use of data already burned or
+    data requested by the console.
+
+>La recursividad en java es una tecnica de programación en la que un metodo se llama a sí
+mismo para resolver un problema. Esto se logra dividiendo un problema en subproblemas más
+pequeños con el fin de resolverlos.
+> - En esta carpeta se muestran distintos ejercicios y ejemplos con casos de recursividad;
+  Demostrando asi cuáles son los casos base y recursivos. Se denota también el uso de datos ya quemados oh datos pedidos por consola.
+
 
 <br>
 

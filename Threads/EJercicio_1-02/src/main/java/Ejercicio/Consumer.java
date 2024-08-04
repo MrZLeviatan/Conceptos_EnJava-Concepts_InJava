@@ -1,5 +1,8 @@
-package mrzleviatan.ejercicio_102;
+package Ejercicio;
 
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -7,11 +10,12 @@ import java.util.Arrays;
 public class Consumer extends Thread {
 
     private Tuberia tuberia;
+    private BufferedWriter witter;
 
     ArrayList<Character> palabra = new ArrayList<>(Arrays.asList(' ',' ',
-            ' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' '));
+            ' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' '));
     ArrayList<Character> palabrasDeneganas = new ArrayList<>();
-    String palabraABuscar = "universid@d#2023%";
+    String palabraABuscar = "progrOmacion_342023%";
 
 
     public ArrayList<Character> getPalabrasDeneganas() {return palabrasDeneganas; }
@@ -67,22 +71,16 @@ public class Consumer extends Thread {
   }
 
 
-    public ArrayList<Character> especifica() {
-
-        ArrayList<Character> palabraEspecial = new ArrayList<>();
-
-        for (int i = 0; i < palabraABuscar.length(); i++) {
-            palabraEspecial.add(palabraABuscar.charAt(i));
-        }
-
-        return palabraEspecial;
-    }
 
 
     public Consumer(Tuberia t) {
 
             tuberia = t;
-
+        try {
+            witter =new BufferedWriter(new FileWriter("src/main/java/Ejercicio/letrasSobrantes.txt"));
+        }catch (IOException e){
+            e.printStackTrace();
+        }
     }
 
 
@@ -107,14 +105,21 @@ public class Consumer extends Thread {
                     if (verificar(palabraABuscar,palabra)){
 
                         bandera = false;
+                    }else {
+                        escribirEnArchivo(c);
                     }
+
                 }
 
                 if (asignarLetras(d,palabraABuscar,palabra)){
 
                     if (verificar(palabraABuscar,palabra)){
+
                         bandera = false;
+                    }else{
+                        escribirEnArchivo(d);
                     }
+
                 }
 
                 try {
@@ -132,6 +137,20 @@ public class Consumer extends Thread {
             palabra.forEach(l->System.out.println(l));
             System.out.println("\n \n");
         }
+
+
+
+
+    private void escribirEnArchivo(char c) {
+        try {
+            witter.write(c);
+            witter.flush();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
+    }
+
+
 
 

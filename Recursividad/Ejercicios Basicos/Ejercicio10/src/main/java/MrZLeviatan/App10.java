@@ -6,26 +6,25 @@ public class App10 {
 
 
     /**
-     * SE VUELVE EJECUTABLE LA CLASE.
+     * THE CLASS BECOMES EXECUTABLE.
      */
     public static void main(String[] args) {
 
-        System.out.println(" --EJERCICIO 10-- ");
+        System.out.println(" --Exercisesssssssss 10-- ");
 
-        Scanner sc = new Scanner(System.in);            // Llama al escáner del teclado.
+        Scanner sc = new Scanner(System.in); // Call the keyboard scanner.
         String palabra;
         int longitud;
-        System.out.println("");
-        System.out.println(" Digite una palabra por favor: ");
+        System.out.println(" Please type a word: ");
 
         palabra = sc.nextLine();
         longitud = palabra.length()-1;
-        System.out.println("La palabra invertida es: " + invertirPalabra(palabra,longitud));
+        System.out.println("The inverted word is: " + invertirPalabra(palabra,longitud));
 
     }
 
     /**
-     * MÉTODO RECURSIVO PARA INVERTIR LA PALABRA PEDIDA POR EL ESCÁNER.
+     * RECURSIVE METHOD TO INVERT THE WORD REQUESTED BY THE SCANNER.
      */
     public static String invertirPalabra (String palabra, int longitud){
 

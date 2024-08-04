@@ -1,16 +1,16 @@
 <h1 align="center">  Recursividad / Recursion  </h1> 
 
-La recursividad en java es una técnica de programación en la que un método se llama a sí
-mismo para resolver un problema. Esto se logra dividiendo un problema en subproblemas más
-pequeños con el fin de resolverlos recursivamente.
+Recursion in Java is a programming technique in which a method calls itself to solve a problem. This 
+approach is based on the decomposition of a complex problem into smaller sub-problems, which are solved 
+recursively until a base case is reached that stops the recursion.
 
->Recursion in Java is a programming technique in which a method calls itself
-himself to solve a problem. This is achieved by dividing a problem into smaller sub-problems.
-small in order to solve them recursively.
+> La recursividad en Java es una técnica de programación en la cual un método se llama a sí mismo para resolver 
+un problema. Este enfoque se basa en la descomposición de un problema complejo en sub problemas más pequeños, los 
+cuales se resuelven de manera recursiva hasta alcanzar un caso base que detenga la recursión.
 
 
 <p align="center">
-  <img src="https://i.postimg.cc/Hx5SCzn0/Opera-Instant-nea-2024-03-25-023933-docs-google-com-removebg-preview-3.png" />
+  <img src="https://i.postimg.cc/mgjf4cz9/Recursion-removebg-preview.png" />
 
 </p>
 
@@ -40,49 +40,62 @@ ___
 
     
 ___
+<br>
 
 # _Ejercicios Básicos: / Basic Exercises:_
 
-A continuación se mostrarán distintos ejercicios básicos de la recursividad. Estos ejercicios te proporcionarán una base sólida para comprender y aplicar la recursividad en tus proyectos de programación.
->Different basic recursion exercises will be shown below. These exercises will provide you with a solid foundation to understand and apply recursion in your programming projects...
-
+Next, we will present a series of fundamental exercises on recursion. These exercises will give you a solid 
+foundation for understanding and applying recursion in your programming projects.
+> A continuación, presentaremos una serie de ejercicios fundamentales sobre recursividad. Estos ejercicios te
+brindarán una base sólida para entender y aplicar la recursividad en tus proyectos de programación.
 
 * ## [_Ejercicio 01 / Exercise 01_](Ejercicios%20Basicos/Ejercicio1)
-En este ejercicio se pide contar las cifras de un valor pedido por consola utilizando los métodos de recursividad.
->In this exercise you are asked to count the figures of a value requested by console using recursion methods.
+In this exercise, you are asked to count the digits of a number entered through the console using recursive methods.
+>En este ejercicio, se solicita contar las cifras de un número ingresado por consola utilizando métodos recursivos.
 
 
 * ## [_Ejercicio 04 / Exercise 04_](Ejercicios%20Basicos/Ejercicio4)
-En este ejercicio se pide la suma de las cifras de un valor pedido por consola utilizando los métodos de recursividad.
->In this exercise, the sum of the figures of a value requested by console is requested using recursion methods.
+In this exercise, you are asked to calculate the sum of the figures of a number entered through the console 
+using recursive methods.
+> En este ejercicio, se solicita calcular la suma de las cifras de un número ingresado por consola utilizando 
+métodos recursivos.
 
 
 * ## [_Ejercicio 10 / Exercise 10_](Ejercicios%20Basicos/Ejercicio10)
-En este ejercicio se pide invertir una palabra pedida por consola utilizando los métodos recursivos.
->In this exercise you are asked to reverse a word requested by the console using recursive methods.
+In this exercise, you are asked to reverse a word entered through the console using recursive methods.
+>En este ejercicio, se solicita invertir una palabra ingresada por consola utilizando métodos recursivos.
 
 
 * ## [_Ejercicio 12 / Exercise 12_](Ejercicios%20Basicos/Ejercicio12)
-En este ejercicio se pide la potencia de una bases y un potenciado pedido por consola utilizando los métodos de recursividad.
->In this exercise, the power of a base and a power requested by console are requested using recursion methods.
+In this exercise, you are asked to calculate the power of a base and an exponent entered through the console 
+using recursive methods.
+> En este ejercicio, se solicita calcular la potencia de una base y un exponente ingresados por consola 
+utilizando métodos recursivos.
 
 
 * ## [_Fibonacci_](Ejercicios%20Basicos/Fibonacci)
-En este ejercicio se halla la ecuación fibonacci con el límite del número pedido por consola; Utilizando los métodos de recursividad.
->In this exercise the Fibonacci equation is found with the limit of the number requested per console; Using recursion methods.
+In this exercise, you are asked to calculate the Fibonacci sequence up to the limit number entered by console, 
+using recursive methods.
+> En este ejercicio, se solicita calcular la secuencia de Fibonacci hasta el número límite ingresado por 
+consola, utilizando métodos recursivos.
 
 <br>
 
 ___
 
 # _Ejercicios ArrayList: / ArrayList Exercises:_
-A continuación se mostrarán diversos ejercicios básicos de la recursividad utilizando la estructura ArrayList. Estos ejercicios te proporcionan un conocimiento más avanzado sobre la recursividad y sus distintos usos.
->Below we will show various basic recursion exercises using the ArrayList structure. These exercises provide you with more advanced knowledge about recursion and its different uses.
+Next, several basic recursion exercises using the ArrayList structure will be presented. These exercises will
+give you a deeper understanding of recursion and how it can be applied in different contexts.
+>A continuación, se presentarán varios ejercicios básicos de recursividad utilizando la estructura ArrayList. 
+Estos ejercicios te brindarán un conocimiento más profundo sobre la recursividad y cómo se puede aplicar en 
+diferentes contextos.
 
 
 * ## [_Ejercicio 02 / Exercise 02_](Ejercicios%20Array/Ejercicio2)
-En este ejercicio se pide encontrar las veces que se repite el número 0 en un Array ya quemado utilizando los métodos de recursividad.
->This exercise asks you to find the number of times the number 0 is repeated in an already burned Array using recursion methods.
+In this exercise, you are asked to find how many times the number 0 is repeated in a predefined array using 
+recursive methods.
+>En este ejercicio, se solicita encontrar cuántas veces se repite el número 0 en un arreglo predefinido 
+utilizando métodos recursivos.
 
 
 * ## [_Ejercicio 03 / Exercise 03_](Ejercicios%20Array/Ejercicio3)

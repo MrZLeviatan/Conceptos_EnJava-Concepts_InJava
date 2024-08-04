@@ -3,6 +3,6 @@ module mrzleviatan.ejercicio_102 {
     requires javafx.fxml;
 
 
-    opens mrzleviatan.ejercicio_102 to javafx.fxml;
-    exports mrzleviatan.ejercicio_102;
+    opens Ejercicio to javafx.fxml;
+    exports Ejercicio;
 }

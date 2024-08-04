@@ -1,14 +1,18 @@
 # _Ejercicios ArrayList: / ArrayList Exercises:_
-A continuación se mostrarán diverso ejercicios basicos de la recursividad utiizando la estructura ArrayList. Estos ejercicios te proporcionan un conocimiento mas avanzado sobre la recursividad y sus distintos usos.
->Below we will show various basic recursion exercises using the ArrayList structure. These exercises provide you with more advanced knowledge about recursion and its different uses.
-<br>
-</br>
+Next, several basic recursion exercises using the ArrayList structure will be presented. These exercises will
+give you a deeper understanding of recursion and how it can be applied in different contexts.
+>A continuación, se presentarán varios ejercicios básicos de recursividad utilizando la estructura ArrayList.
+Estos ejercicios te brindarán un conocimiento más profundo sobre la recursividad y cómo se puede aplicar en
+diferentes contextos.
+
 
 * ## [_Ejercicio 02 / Exercise 02_](Ejercicio2)
-En este ejercicio se pide encontrar las veces que se repite el número 0 en un Array ya quemado utilizando los metodos de recursividad.
->This exercise asks you to find the number of times the number 0 is repeated in an already burned Array using recursion methods.
+In this exercise, you are asked to find how many times the number 0 is repeated in a predefined array using
+recursive methods.
+>En este ejercicio, se solicita encontrar cuántas veces se repite el número 0 en un arreglo predefinido
+utilizando métodos recursivos.
+
 <br>
-</br>
 
 * ## [_Ejercicio 03 / Exercise 03_](Ejercicio3)
 En este ejercicio se pide encontrar el número menor del arreglo ya quemado en ambos sentidos del mismo utilizando los metodos recursividad.

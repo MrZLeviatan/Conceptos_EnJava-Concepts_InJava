@@ -6,15 +6,12 @@ import java.util.Scanner;
 public class App {
 
     /*
-        CASO BASE:
+        BASE CASE:
+        -WHEN THE NUMBER IS LESS THAN 10, THE ANSWER IS 1 DIGITAL.
 
-            -CUANDO EL NUMERO SEA MENOR QUE 10, LA RESPUESTA ES 1 DIGITO/CIFRA
-
-        CASO RECURSIVO:
-
-            -DIVIDIR EL NUMERO ENTRE 10
-            -CONTAR +1 DIGITO OH EN EL SUMATORIO
-            -LLAMAR LA RECURSIVIDAD, CON EL NUEVO VALOR
+        RECURSIVE CASE:
+        -DIVIDE THE NUMBER BY 10 -COUNT +1 DIGIT OH IN THE SUM.
+        -CALL THE RECURSIVE, WITH THE NEW VALUE.
   */
     public static int contarDigitos ( int numero){
         int res;
@@ -30,37 +27,31 @@ public class App {
 
 
     /**
-     * MÉTODO EL CUAL OBTIENE POR CONSOLA LOS DATOS REQUERIDOS.
+     * METHOD WHICH OBTAINS THE REQUIRED DATA THROUGH THE CONSOLE.
      */
     public static void obtenerDatos () {
 
         Scanner sc = new Scanner(System.in);
-        Scanner nm = new Scanner(System.in);
         int numero;
-        int n;
-        System.out.println(" Digite un numero Por favor: ");
+
+        System.out.println(" Enter a number Please: ");
 
             try {
                 numero = sc.nextInt();
                 int sumaDigitos = contarDigitos(numero);
-                System.out.println("La cantidad de digitos en el anterior ejemplo es: " + sumaDigitos);
+                System.out.println("The number of digits in the previous example is: " + sumaDigitos);
 
             } catch (InputMismatchException e) {
-                    System.out.println("Error: " + "El valor tecleado debe ser un entero");
+                    System.out.println("Error: The typed value must be an integer");
                     obtenerDatos();
-
             }
     }
 
 
-
     public static void main(String[] args) {
-
-        System.out.println(" --EJERCICIO 1-- ");
+        System.out.println(" --Exercise 1-- ");
         obtenerDatos();
-
     }
-
 }
 
 

@@ -1,4 +1,4 @@
-package mrzleviatan.ejercicio_102;
+package Ejercicio;
 
 public class Tuberia {
 

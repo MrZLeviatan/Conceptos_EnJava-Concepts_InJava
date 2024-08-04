@@ -1,36 +1,40 @@
 <h1 align="center" >  Ejercicios Básicos: / Basic Exercises:  </h1> 
 
-A continuación se mostrarán distintos ejercicios básicos de la recursividad. Estos ejercicios te proporcionarán una base sólida para comprender y aplicar la recursividad en tus proyectos de programación.
->Different basic recursion exercises will be shown below. These exercises will provide you with a solid foundation to understand and apply recursion in your programming projects...
+Next, we will present a series of fundamental exercises on recursion. These exercises will give you a solid
+foundation for understanding and applying recursion in your programming projects.
+> A continuación, presentaremos una serie de ejercicios fundamentales sobre recursividad. Estos ejercicios te
+brindarán una base sólida para entender y aplicar la recursividad en tus proyectos de programación.
 
 
 * ## [_Ejercicio 01 / Exercise 01_](Ejercicio1)
-En este ejercicio se pide contar las cifras de un valor pedido por consola utilizando los métodos de recursividad.
->In this exercise you are asked to count the figures of a value requested by console using recursion methods.
+In this exercise, you are asked to count the digits of a number entered through the console using recursive methods.
+>En este ejercicio, se solicita contar las cifras de un número ingresado por consola utilizando métodos recursivos.
 
 <br>
 
 * ## [_Ejercicio 04 / Exercise 04_](Ejercicio4)
-En este ejercicio se pide la suma de las cifras de un valor pedido por consola utilizando los métodos de recursividad.
->In this exercise, the sum of the figures of a value requested by console is requested using recursion methods.
+In this exercise, you are asked to calculate the sum of the figures of a number entered through the console
+using recursive methods.
+> En este ejercicio, se solicita calcular la suma de las cifras de un número ingresado por consola utilizando
+métodos recursivos.
 
 <br>
 
 * ## [_Ejercicio 10 / Exercise 10_](Ejercicio10)
-En este ejercicio se pide invertir una palabra pedida por consola utilizando los métodos recursivos.
->In this exercise you are asked to reverse a word requested by the console using recursive methods.
+In this exercise, you are asked to reverse a word entered through the console using recursive methods.
+>En este ejercicio, se solicita invertir una palabra ingresada por consola utilizando métodos recursivos.
 
 <br>
 
 * ## [_Ejercicio 12 / Exercise 12_](Ejercicio12)
-En este ejercicio se pide la potencia de una bases y un potenciado pedido por consola utilizando los métodos de recursividad.
->In this exercise, the power of a base and a power requested by console are requested using recursion methods.
+In this exercise, you are asked to calculate the power of a base and an exponent entered through the console using recursive methods.
+> En este ejercicio, se solicita calcular la potencia de una base y un exponente ingresados por consola utilizando métodos recursivos.
 
 <br>
 
 * ## [_Fibonacci_](Fibonacci)
-En este ejercicio se halla la ecuación fibonacci con el límite del número pedido por consola; Utilizando los métodos de recursividad.
->In this exercise the Fibonacci equation is found with the limit of the number requested per console; Using recursion methods.
+In this exercise, you are asked to calculate the Fibonacci sequence up to the limit number entered by console, using recursive methods.
+> En este ejercicio, se solicita calcular la secuencia de Fibonacci hasta el número límite ingresado por consola, utilizando métodos recursivos.
 
 <br>
 
