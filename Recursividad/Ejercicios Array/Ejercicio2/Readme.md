@@ -36,52 +36,51 @@ _Classes_
 </H1>
 
 ## _App02_
-La clase contiene un programa que cuenta la cantidad de ceros en un arreglo de enteros, primero
-avanzando desde el inicio del arreglo hasta el final, y luego retrocediendo desde el final del arreglo
-hasta el inicio. Además, imprime los resultados de estas operaciones.
->The class contains a program that counts the number of zeros in an array of integers, first going 
-from the start of the array to the end, and then going backwards from the end of the array to the start. 
-Additionally, it prints the results of these operations.
+The class implements a program that counts the number of zeros in an array of integers. 
+The program traverses the array in two directions: first, it moves forward from the beginning to the end, 
+and then it moves backwards from the end to the beginning. Finally, print the results obtained in both directions.
+>La clase implementa un programa que cuenta la cantidad de ceros en un arreglo de enteros. 
+El programa recorre el arreglo en dos direcciones: primero, avanza desde el inicio hasta el final y luego, 
+retrocede desde el final hacia el inicio. Finalmente, imprime los resultados obtenidos en ambas direcciones.
 
 - <H3> Métodos / Methods: </H3>
 
   -  <H4> Main: </H4>
-      Este método ejecuta el programa. Define un arreglo de enteros array con algunos elementos. Llama a 
-      los métodos mostrarCantidadAvanzando y mostrarCantidadRetrocediendo para contar los ceros en el arreglo, 
-      tanto avanzando como retrocediendo, y llama al método demostracion para mostrar los resultados.
-
-     > This method runs the program. Defines an array of integers array with some elements. Call the 
+      This method runs the program. Defines an array of integers array with some elements. Call the 
       mostrarCantidadAvanzando and mostrarCantidadRetrocediendo methods to count zeros in the array, 
       both moving forward and backward, and call the show method to display the results.
+    
+     >Este método ejecuta el programa. Define un arreglo de enteros array con algunos elementos. Llama a
+     los métodos mostrarCantidadAvanzando y mostrarCantidadRetrocediendo para contar los ceros en el arreglo,
+     tanto avanzando como retrocediendo, y llama al método demostracion para mostrar los resultados.
 
   -  <H4> MostrarCantidadAvanzando / ShowQuantityAdvancing: </H4> 
-     
-      Este método cuenta recursivamente la cantidad de ceros en el arreglo comenzando desde la posición 
-      y avanzando hasta el final del arreglo. 
-      - Si el elemento en la posición actual es 0, incrementa el contador de ceros y llama recursivamente al 
-      mismo método con la siguiente posición.
-      - Si el elemento no es 0, solo llama recursivamente al mismo método con la siguiente posición.
-    
-     > This method recursively counts the number of zeros in the array starting from position and moving to 
+     This method recursively counts the number of zeros in the array starting from position and moving to 
       the end of the array. 
-     >  - If the element at the current position is 0, increment the zero counter and recursively call the same 
+     
+      - If the element at the current position is 0, increment the zero counter and recursively call the same 
       method with the next position. 
-     > - If the element is not 0, just recursively call the same method with the next position.
+      - If the element is not 0, just recursively call the same method with the next position.
+  
+      > Este método cuenta recursivamente la cantidad de ceros en el arreglo comenzando desde la posición
+        y avanzando hasta el final del arreglo.
+      > - Si el elemento en la posición actual es 0, incrementa el contador de ceros y llama recursivamente al
+       mismo método con la siguiente posición.
+      > - Si el elemento no es 0, solo llama recursivamente al mismo método con la siguiente posición.
     
   - <H4> MostrarCantidadRetrocediendo / ShowQuantityGoingBack </H4>
-
-      Este método cuenta recursivamente la cantidad de ceros en el arreglo comenzando desde la posición 
-      y retrocediendo hasta el inicio del arreglo.
-      - Si el elemento en la posición actual es 0, incrementa el contador de ceros y llama recursivamente al 
-      mismo método con la posición anterior.
-      - Si el elemento no es 0, solo llama recursivamente al mismo método con la posición anterior.
     
-    > This method recursively counts the number of zeros in the array starting from the position and going 
+     This method recursively counts the number of zeros in the array starting from the position and going 
       back to the start of the array. 
-    > - If the element at the current position is 0, increment the zero counter and recursively call the same 
+     - If the element at the current position is 0, increment the zero counter and recursively call the same 
       method with the previous position. 
-    > - If the element is not 0, just recursively call the same method with the previous position. 
+     - If the element is not 0, just recursively call the same method with the previous position. 
 
+     >  Este método cuenta recursivamente la cantidad de ceros en el arreglo comenzando desde la posición
+    y retrocediendo hasta el inicio del arreglo.
+      >  - Si el elemento en la posición actual es 0, incrementa el contador de ceros y llama recursivamente al
+         mismo método con la posición anterior.
+      >  - Si el elemento no es 0, solo llama recursivamente al mismo método con la posición anterior.
 
 
 

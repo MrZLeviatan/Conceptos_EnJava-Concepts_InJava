@@ -54,7 +54,7 @@ public class App02 {
     // Method to display the result of counting zeros
     public static void demostracion (int cantidadCeros, String tipo){
         if(cantidadCeros != 0){
-            System.out.printf("La cantidad de ceros en el arreglo %s " + "es de :" + cantidadCeros,tipo);
+            System.out.printf("\n La cantidad de ceros en el arreglo %s " + "es de : " + cantidadCeros,tipo);
         }else {
             System.out.println(" No se encontraron ceros en el arreglo");
         }

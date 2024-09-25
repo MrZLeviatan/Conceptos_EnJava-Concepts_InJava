@@ -4,6 +4,7 @@ public class App03 {
 
     public static void main(String[] args) {
 
+        //
         int[] array = {9, 1, 2, 6, 0, 5, 0, 9};
 
         int posicion = 0;

@@ -1,33 +1,79 @@
-# _Ejercicio 03 / Exercise 03_
+<h1 align="center"> Ejercicio 03 / Exercise 03  </h1> 
 
-En este ejercicio se pide encontrar el 
-numero menor del arreglo ya quemado en ambos 
-sentidos del mismo utilizando recursividad.
->In this exercise you are asked to find the
-smallest number of the arrangement already burned in both
-meanings of it using recursion.
-<br>
-</br>
+This exercise requires finding the smallest number in a predefined array, traversing it in both directions
+(from start to end and from end to start) using recursive methods.
+>En este ejercicio se requiere encontrar el número menor en un arreglo predefinido, recorriéndolo en ambos sentidos
+(de inicio a fin y de fin a inicio) utilizando métodos recursivos.
 
-## _Problematica: / Problematic:_
-El recorrido del arreglo se realiza de inicio a fin. El criterio de parada es cuando inicio y fin son iguales.
-Parámetros: vector[] (es el arreglo en el cual se encuentran los elementos), inicio (Es el inicio del arreglo), fin (Es el fin del arreglo y su valor es el tamaño del arreglo - 1).
->The arrangement tour is carried out from start to finish. The stopping criterion is when start and end are equal.
-Parameters: vector[] (it is the array in which the elements are found), start (It is the beginning of the array), end (It is the end of the array and its value is the size of the array - 1).
-<br>
-</br>
+---
 
-## _Tool_
-- Java 17
-- Maven
-- IDE Intellij
+## _Badges:_
 
-___________
 
-# _Class_
+- <H3> Backend:</H3>
 
-### _MainApp_
+    - [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ](https://www.oracle.com/co/java/technologies/downloads/#java21)
 
+
+- <H3>  IDEs/ Editors: </H3>
+
+    - [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/es-es/idea/) [![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)](https://maven.apache.org/)
+
+___
+
+<H1 align="center"> 
+
+_Classes_
+
+</H1>
+
+## _App03_
+
+The class implements a program that loops through an array from start to finish. The stopping criterion is set 
+when the start and end indices match.
+>La clase implementa un programa que recorre un arreglo desde el inicio hasta el final. El criterio de detención se 
+establece cuando los índices de inicio y fin coinciden.
+
+- <H3> Métodos / Methods: </H3>
+
+    -  <H4> Main: </H4>
+        This method runs the program. Defines an array of integers array with some elements. Call the 
+        mostrarCantidadAvanzando and mostrarCantidadRetrocediendo methods to count zeros in the array, 
+        both moving forward and backward, and call the show method to display the results.
+
+       >Este método ejecuta el programa. Define un arreglo de enteros array con algunos elementos. Llama a
+       los métodos mostrarCantidadAvanzando y mostrarCantidadRetrocediendo para contar los ceros en el arreglo,
+       tanto avanzando como retrocediendo, y llama al método demostracion para mostrar los resultados.
+
+    -  <H4> MostrarCantidadAvanzando / ShowQuantityAdvancing: </H4> 
+       This method recursively counts the number of zeros in the array starting from position and moving to 
+        the end of the array. 
+
+        - If the element at the current position is 0, increment the zero counter and recursively call the same
+          method with the next position.
+        - If the element is not 0, just recursively call the same method with the next position.
+
+       > Este método cuenta recursivamente la cantidad de ceros en el arreglo comenzando desde la posición
+       y avanzando hasta el final del arreglo.
+       > - Si el elemento en la posición actual es 0, incrementa el contador de ceros y llama recursivamente al
+           mismo método con la siguiente posición.
+       > - Si el elemento no es 0, solo llama recursivamente al mismo método con la siguiente posición.
+
+    - <H4> MostrarCantidadRetrocediendo / ShowQuantityGoingBack </H4>
+
+      This method recursively counts the number of zeros in the array starting from the position and going
+      back to the start of the array.
+        - If the element at the current position is 0, increment the zero counter and recursively call the same
+          method with the previous position.
+        - If the element is not 0, just recursively call the same method with the previous position.
+
+      >  Este método cuenta recursivamente la cantidad de ceros en el arreglo comenzando desde la posición
+      y retrocediendo hasta el inicio del arreglo.
+      >  - Si el elemento en la posición actual es 0, incrementa el contador de ceros y llama recursivamente al
+           mismo método con la posición anterior.
+      >  - Si el elemento no es 0, solo llama recursivamente al mismo método con la posición anterior.
+
+      
 ```java
 
 public class App03 {

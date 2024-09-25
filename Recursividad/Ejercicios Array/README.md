@@ -15,10 +15,12 @@ utilizando métodos recursivos.
 <br>
 
 * ## [_Ejercicio 03 / Exercise 03_](Ejercicio3)
-En este ejercicio se pide encontrar el número menor del arreglo ya quemado en ambos sentidos del mismo utilizando los metodos recursividad.
->In this exercise you are asked to find the smallest number of the already burned array in both directions using the recursion methods.
+This exercise requires finding the smallest number in a predefined array, traversing it in both directions
+(from start to end and from end to start) using recursive methods.
+>En este ejercicio se requiere encontrar el número menor en un arreglo predefinido, recorriéndolo en ambos sentidos
+(de inicio a fin y de fin a inicio) utilizando métodos recursivos.
+
 <br>
-</br>
 
 * ## [_Ejercicio 05 / Exercise 05_](Ejercicio5)
 En este ejercicio se pide hallar la cantidad de veces que se repite un número pedido por consola en un array quemando utilizando los metodos recursivos.
